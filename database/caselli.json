@@ -1,0 +1,512 @@
+{"_id":{"$oid":"5e4d08b25b6665bf919124bd"},"id":2,"autostrada":"A01","progressiva_km":8.9,"nome":"Milano Sud","codice":1}
+{"_id":{"$oid":"5e4d08b25b6665bf919124be"},"id":4,"autostrada":"A01","progressiva_km":37.8,"nome":"Casalpusterlengo","codice":3}
+{"_id":{"$oid":"5e4d08b25b6665bf919124bf"},"id":5,"autostrada":"A01","progressiva_km":49.7,"nome":"Basso Lodigiano","codice":4}
+{"_id":{"$oid":"5e4d08b25b6665bf919124c0"},"id":6,"autostrada":"A01","progressiva_km":74.0,"nome":"Fiorenzuola","codice":6}
+{"_id":{"$oid":"5e4d08b25b6665bf919124c1"},"id":7,"autostrada":"A01","progressiva_km":90.4,"nome":"Fidenza","codice":7}
+{"_id":{"$oid":"5e4d08b25b6665bf919124c2"},"id":8,"autostrada":"A01","progressiva_km":110.4,"nome":"Parma","codice":8}
+{"_id":{"$oid":"5e4d08b25b6665bf919124c3"},"id":9,"autostrada":"A01","progressiva_km":124.4,"nome":"Terre di canossa - Campegine","codice":91}
+{"_id":{"$oid":"5e4d08b25b6665bf919124c4"},"id":3,"autostrada":"A01","progressiva_km":22.3,"nome":"Lodi","codice":2}
+{"_id":{"$oid":"5e4d08b25b6665bf919124c5"},"id":1,"autostrada":"A01","progressiva_km":7.7,"nome":"Melegnano","codice":37}
+{"_id":{"$oid":"5e4d08b25b6665bf919124c6"},"id":13,"autostrada":"A01","progressiva_km":184.79,"nome":"Valsamoggia","codice":96}
+{"_id":{"$oid":"5e4d08b25b6665bf919124c7"},"id":14,"autostrada":"A01","progressiva_km":199.89,"nome":"Sasso Marconi Nord","codice":70}
+{"_id":{"$oid":"5e4d08b25b6665bf919124c8"},"id":15,"autostrada":"A01","progressiva_km":209.8,"nome":"Sasso Marconi","codice":14}
+{"_id":{"$oid":"5e4d08b25b6665bf919124c9"},"id":16,"autostrada":"A01","progressiva_km":222.7,"nome":"Rioveggio","codice":15}
+{"_id":{"$oid":"5e4d08b25b6665bf919124ca"},"id":17,"autostrada":"A01","progressiva_km":237.2,"nome":"Pian del Voglio","codice":16}
+{"_id":{"$oid":"5e4d08b25b6665bf919124cb"},"id":18,"autostrada":"A01","progressiva_km":242.3,"nome":"Roncobilaccio","codice":17}
+{"_id":{"$oid":"5e4d08b25b6665bf919124cc"},"id":11,"autostrada":"A01","progressiva_km":157.6,"nome":"Modena Nord","codice":10}
+{"_id":{"$oid":"5e4d08b25b6665bf919124cd"},"id":20,"autostrada":"A01","progressiva_km":278.1,"nome":"Calenzano-Sesto Fiorentino","codice":19}
+{"_id":{"$oid":"5e4d08b25b6665bf919124ce"},"id":21,"autostrada":"A01","progressiva_km":279.9,"nome":"Firenze Nord","codice":20}
+{"_id":{"$oid":"5e4d08b25b6665bf919124cf"},"id":22,"autostrada":"A01","progressiva_km":286.9,"nome":"Firenze Scandicci","codice":21}
+{"_id":{"$oid":"5e4d08b25b6665bf919124d0"},"id":19,"autostrada":"A01","progressiva_km":261.5,"nome":"Barberino di Mugello","codice":18}
+{"_id":{"$oid":"5e4d08b25b6665bf919124d1"},"id":23,"autostrada":"A01","progressiva_km":289.7,"nome":"Villa Costanza","codice":97}
+{"_id":{"$oid":"5e4d08b25b6665bf919124d2"},"id":25,"autostrada":"A01","progressiva_km":300.9,"nome":"Firenze Sud","codice":23}
+{"_id":{"$oid":"5e4d08b25b6665bf919124d3"},"id":24,"autostrada":"A01","progressiva_km":295.5,"nome":"Firenze Impruneta","codice":22}
+{"_id":{"$oid":"5e4d08b25b6665bf919124d4"},"id":26,"autostrada":"A01","progressiva_km":319.9,"nome":"Incisa - Reggello","codice":24}
+{"_id":{"$oid":"5e4d08b25b6665bf919124d5"},"id":27,"autostrada":"A01","progressiva_km":335.8,"nome":"Valdarno","codice":25}
+{"_id":{"$oid":"5e4d08b25b6665bf919124d6"},"id":28,"autostrada":"A01","progressiva_km":358.5,"nome":"Arezzo","codice":26}
+{"_id":{"$oid":"5e4d08b25b6665bf919124d7"},"id":10,"autostrada":"A01","progressiva_km":137.1,"nome":"Reggio Emilia","codice":9}
+{"_id":{"$oid":"5e4d08b25b6665bf919124d8"},"id":12,"autostrada":"A01","progressiva_km":170.8,"nome":"Modena Sud","codice":11}
+{"_id":{"$oid":"5e4d08b25b6665bf919124d9"},"id":32,"autostrada":"A01","progressiva_km":427.8,"nome":"Fabro","codice":30}
+{"_id":{"$oid":"5e4d08b25b6665bf919124da"},"id":33,"autostrada":"A01","progressiva_km":451.4,"nome":"Orvieto","codice":31}
+{"_id":{"$oid":"5e4d08b25b6665bf919124db"},"id":29,"autostrada":"A01","progressiva_km":371.6,"nome":"Monte San Savino","codice":27}
+{"_id":{"$oid":"5e4d08b25b6665bf919124dc"},"id":34,"autostrada":"A01","progressiva_km":479.5,"nome":"Attigliano","codice":32}
+{"_id":{"$oid":"5e4d08b25b6665bf919124dd"},"id":35,"autostrada":"A01","progressiva_km":491.3,"nome":"Orte","codice":33}
+{"_id":{"$oid":"5e4d08b25b6665bf919124de"},"id":36,"autostrada":"A01","progressiva_km":500.9,"nome":"Magliano Sabina","codice":34}
+{"_id":{"$oid":"5e4d08b25b6665bf919124df"},"id":37,"autostrada":"A01","progressiva_km":516.0,"nome":"Ponzano Romano-Soratte","codice":90}
+{"_id":{"$oid":"5e4d08b25b6665bf919124e0"},"id":30,"autostrada":"A01","progressiva_km":385.4,"nome":"Valdichiana","codice":28}
+{"_id":{"$oid":"5e4d08b25b6665bf919124e1"},"id":38,"autostrada":"A01","progressiva_km":555.47,"nome":"Guidonia Montecelio","codice":93}
+{"_id":{"$oid":"5e4d08b25b6665bf919124e2"},"id":31,"autostrada":"A01","progressiva_km":409.9,"nome":"Chiusi-Chianciano Terme","codice":29}
+{"_id":{"$oid":"5e4d08b25b6665bf919124e3"},"id":39,"autostrada":"A01","progressiva_km":586.9,"nome":"Valmontone","codice":705}
+{"_id":{"$oid":"5e4d08b25b6665bf919124e4"},"id":40,"autostrada":"A01","progressiva_km":592.9,"nome":"Colleferro","codice":706}
+{"_id":{"$oid":"5e4d08b25b6665bf919124e5"},"id":41,"autostrada":"A01","progressiva_km":603.9,"nome":"Anagni-Fiuggi","codice":707}
+{"_id":{"$oid":"5e4d08b25b6665bf919124e6"},"id":42,"autostrada":"A01","progressiva_km":618.2,"nome":"Ferentino","codice":786}
+{"_id":{"$oid":"5e4d08b25b6665bf919124e7"},"id":43,"autostrada":"A01","progressiva_km":624.2,"nome":"Frosinone","codice":708}
+{"_id":{"$oid":"5e4d08b25b6665bf919124e8"},"id":44,"autostrada":"A01","progressiva_km":642.0,"nome":"Ceprano","codice":709}
+{"_id":{"$oid":"5e4d08b25b6665bf919124e9"},"id":48,"autostrada":"A01","progressiva_km":700.8,"nome":"Caianello","codice":713}
+{"_id":{"$oid":"5e4d08b25b6665bf919124ea"},"id":45,"autostrada":"A01","progressiva_km":658.3,"nome":"Pontecorvo","codice":710}
+{"_id":{"$oid":"5e4d08b25b6665bf919124eb"},"id":46,"autostrada":"A01","progressiva_km":669.6,"nome":"Cassino","codice":711}
+{"_id":{"$oid":"5e4d08b25b6665bf919124ec"},"id":47,"autostrada":"A01","progressiva_km":678.6,"nome":"San Vittore","codice":712}
+{"_id":{"$oid":"5e4d08b25b6665bf919124ed"},"id":49,"autostrada":"A01","progressiva_km":719.8,"nome":"Capua","codice":714}
+{"_id":{"$oid":"5e4d08b25b6665bf919124ee"},"id":50,"autostrada":"A01","progressiva_km":728.6,"nome":"Santa Maria Capua Vetere","codice":776}
+{"_id":{"$oid":"5e4d08b25b6665bf919124ef"},"id":51,"autostrada":"A01","progressiva_km":733.7,"nome":"Caserta Nord","codice":715}
+{"_id":{"$oid":"5e4d08b25b6665bf919124f0"},"id":55,"autostrada":"A01","progressiva_km":4.0,"nome":"Fiano Romano","codice":35}
+{"_id":{"$oid":"5e4d08b25b6665bf919124f1"},"id":56,"autostrada":"A01","progressiva_km":9.5,"nome":"Castelnuovo di Porto","codice":92}
+{"_id":{"$oid":"5e4d08b25b6665bf919124f2"},"id":57,"autostrada":"A01","progressiva_km":5.0,"nome":"San Cesareo","codice":704}
+{"_id":{"$oid":"5e4d08b25b6665bf919124f3"},"id":58,"autostrada":"A01","progressiva_km":10.2,"nome":"Monteporzio","codice":703}
+{"_id":{"$oid":"5e4d08b25b6665bf919124f4"},"id":59,"autostrada":"A01","progressiva_km":14.9,"nome":"Roma sud","codice":702}
+{"_id":{"$oid":"5e4d08b25b6665bf919124f5"},"id":60,"autostrada":"A01","progressiva_km":739.7,"nome":"Caserta Centro","codice":778}
+{"_id":{"$oid":"5e4d08b25b6665bf919124f6"},"id":61,"autostrada":"A01","progressiva_km":58.2,"nome":"Piacenza Sud","codice":5}
+{"_id":{"$oid":"5e4d08b25b6665bf919124f7"},"id":62,"autostrada":"A01","progressiva_km":17.43,"nome":"Badia","codice":94}
+{"_id":{"$oid":"5e4d08b25b6665bf919124f8"},"id":63,"autostrada":"A01","progressiva_km":28.09,"nome":"Firenzuola","codice":95}
+{"_id":{"$oid":"5e4d08b25b6665bf919124f9"},"id":64,"autostrada":"A01","progressiva_km":261.5,"nome":"Barberino di Mugello","codice":18}
+{"_id":{"$oid":"5e4d08b25b6665bf919124fa"},"id":65,"autostrada":"A03","progressiva_km":4.7,"nome":"Ponticelli","codice":17}
+{"_id":{"$oid":"5e4d08b25b6665bf919124fb"},"id":66,"autostrada":"A03","progressiva_km":4.8,"nome":"Napoli Sud","codice":1}
+{"_id":{"$oid":"5e4d08b25b6665bf919124fc"},"id":67,"autostrada":"A03","progressiva_km":8.1,"nome":"Portici","codice":4}
+{"_id":{"$oid":"5e4d08b25b6665bf919124fd"},"id":68,"autostrada":"A03","progressiva_km":12.5,"nome":"Torre del Greco","codice":5}
+{"_id":{"$oid":"5e4d08b25b6665bf919124fe"},"id":69,"autostrada":"A03","progressiva_km":17.5,"nome":"Torre Annunziata Nord","codice":15}
+{"_id":{"$oid":"5e4d08b25b6665bf919124ff"},"id":70,"autostrada":"A03","progressiva_km":19.7,"nome":"Torre Annunziata Sud","codice":6}
+{"_id":{"$oid":"5e4d08b25b6665bf91912500"},"id":71,"autostrada":"A03","progressiva_km":21.9,"nome":"Pompei","codice":7}
+{"_id":{"$oid":"5e4d08b25b6665bf91912501"},"id":72,"autostrada":"A03","progressiva_km":22.6,"nome":"Castellammare di Stabia","codice":8}
+{"_id":{"$oid":"5e4d08b25b6665bf91912502"},"id":52,"autostrada":"A01","progressiva_km":739.7,"nome":"Napoli Nord","codice":779}
+{"_id":{"$oid":"5e4d08b25b6665bf91912503"},"id":53,"autostrada":"A01","progressiva_km":740.6,"nome":"Caserta Sud","codice":716}
+{"_id":{"$oid":"5e4d08b25b6665bf91912504"},"id":54,"autostrada":"A01","progressiva_km":3.6,"nome":"Roma Nord","codice":36}
+{"_id":{"$oid":"5e4d08b25b6665bf91912505"},"id":73,"autostrada":"A03","progressiva_km":25.0,"nome":"Scafati","codice":9}
+{"_id":{"$oid":"5e4d08b25b6665bf91912506"},"id":74,"autostrada":"A03","progressiva_km":29.8,"nome":"Angri","codice":10}
+{"_id":{"$oid":"5e4d08b25b6665bf91912507"},"id":75,"autostrada":"A03","progressiva_km":31.83,"nome":"Angri Sud","codice":18}
+{"_id":{"$oid":"5e4d08b25b6665bf91912508"},"id":76,"autostrada":"A03","progressiva_km":36.7,"nome":"Nocera Sud","codice":16}
+{"_id":{"$oid":"5e4d08b25b6665bf91912509"},"id":77,"autostrada":"A03","progressiva_km":36.8,"nome":"Nocera Nord","codice":11}
+{"_id":{"$oid":"5e4d08b25b6665bf9191250a"},"id":79,"autostrada":"A04","progressiva_km":24.3,"nome":"Torino Rondissone","codice":420}
+{"_id":{"$oid":"5e4d08b25b6665bf9191250b"},"id":80,"autostrada":"A04","progressiva_km":36.8,"nome":"Borgo d'Ale","codice":426}
+{"_id":{"$oid":"5e4d08b25b6665bf9191250c"},"id":82,"autostrada":"A04","progressiva_km":54.4,"nome":"Carisio","codice":430}
+{"_id":{"$oid":"5e4d08b25b6665bf9191250d"},"id":81,"autostrada":"A04","progressiva_km":45.2,"nome":"Santhia`","codice":429}
+{"_id":{"$oid":"5e4d08b25b6665bf9191250e"},"id":83,"autostrada":"A04","progressiva_km":60.0,"nome":"Balocco","codice":432}
+{"_id":{"$oid":"5e4d08b25b6665bf9191250f"},"id":85,"autostrada":"A04","progressiva_km":73.6,"nome":"Biandrate-Vicolungo","codice":434}
+{"_id":{"$oid":"5e4d08b25b6665bf91912510"},"id":86,"autostrada":"A04","progressiva_km":82.9,"nome":"Novara Ovest","codice":436}
+{"_id":{"$oid":"5e4d08b25b6665bf91912511"},"id":84,"autostrada":"A04","progressiva_km":67.5,"nome":"Greggio","codice":433}
+{"_id":{"$oid":"5e4d08b25b6665bf91912512"},"id":87,"autostrada":"A04","progressiva_km":90.5,"nome":"Novara Est","codice":437}
+{"_id":{"$oid":"5e4d08b25b6665bf91912513"},"id":78,"autostrada":"A03","progressiva_km":42.8,"nome":"Cava de' Tirreni","codice":12}
+{"_id":{"$oid":"5e4d08b25b6665bf91912514"},"id":88,"autostrada":"A04","progressiva_km":105.4,"nome":"Marcallo-Mesero","codice":440}
+{"_id":{"$oid":"5e4d08b25b6665bf91912515"},"id":89,"autostrada":"A04","progressiva_km":110.5,"nome":"Arluno","codice":441}
+{"_id":{"$oid":"5e4d08b25b6665bf91912516"},"id":93,"autostrada":"A04","progressiva_km":138.9,"nome":"Monza","codice":656}
+{"_id":{"$oid":"5e4d08b25b6665bf91912517"},"id":90,"autostrada":"A04","progressiva_km":118.4,"nome":"Rho","codice":442}
+{"_id":{"$oid":"5e4d08b25b6665bf91912518"},"id":91,"autostrada":"A04","progressiva_km":120.9,"nome":"Milano Ghisolfa","codice":443}
+{"_id":{"$oid":"5e4d08b25b6665bf91912519"},"id":92,"autostrada":"A04","progressiva_km":138.2,"nome":"Milano Est","codice":654}
+{"_id":{"$oid":"5e4d08b25b6665bf9191251a"},"id":97,"autostrada":"A04","progressiva_km":157.1,"nome":"Trezzo","codice":651}
+{"_id":{"$oid":"5e4d08b25b6665bf9191251b"},"id":94,"autostrada":"A04","progressiva_km":143.9,"nome":"bivio Tangenziale Est","codice":655}
+{"_id":{"$oid":"5e4d08b25b6665bf9191251c"},"id":99,"autostrada":"A04","progressiva_km":167.7,"nome":"Dalmine","codice":649}
+{"_id":{"$oid":"5e4d08b25b6665bf9191251d"},"id":95,"autostrada":"A04","progressiva_km":145.8,"nome":"Agrate","codice":653}
+{"_id":{"$oid":"5e4d08b25b6665bf9191251e"},"id":98,"autostrada":"A04","progressiva_km":160.6,"nome":"Capriate","codice":650}
+{"_id":{"$oid":"5e4d08b25b6665bf9191251f"},"id":101,"autostrada":"A04","progressiva_km":179.0,"nome":"Seriate","codice":647}
+{"_id":{"$oid":"5e4d08b25b6665bf91912520"},"id":102,"autostrada":"A04","progressiva_km":187.6,"nome":"Grumello","codice":646}
+{"_id":{"$oid":"5e4d08b25b6665bf91912521"},"id":96,"autostrada":"A04","progressiva_km":150.0,"nome":"Cavenago","codice":652}
+{"_id":{"$oid":"5e4d08b25b6665bf91912522"},"id":105,"autostrada":"A04","progressiva_km":201.3,"nome":"Rovato","codice":643}
+{"_id":{"$oid":"5e4d08b25b6665bf91912523"},"id":106,"autostrada":"A04","progressiva_km":206.3,"nome":"Ospitaletto","codice":642}
+{"_id":{"$oid":"5e4d08b25b6665bf91912524"},"id":107,"autostrada":"A04","progressiva_km":210.83,"nome":"Castegnato","codice":378}
+{"_id":{"$oid":"5e4d08b25b6665bf91912525"},"id":108,"autostrada":"A04","progressiva_km":215.2,"nome":"Brescia Ovest","codice":641}
+{"_id":{"$oid":"5e4d08b25b6665bf91912526"},"id":109,"autostrada":"A04","progressiva_km":228.5,"nome":"Brescia Est","codice":618}
+{"_id":{"$oid":"5e4d08b25b6665bf91912527"},"id":110,"autostrada":"A04","progressiva_km":244.2,"nome":"Desenzano","codice":617}
+{"_id":{"$oid":"5e4d08b25b6665bf91912528"},"id":111,"autostrada":"A04","progressiva_km":251.6,"nome":"Sirmione","codice":616}
+{"_id":{"$oid":"5e4d08b25b6665bf91912529"},"id":112,"autostrada":"A04","progressiva_km":259.1,"nome":"Peschiera","codice":615}
+{"_id":{"$oid":"5e4d08b25b6665bf9191252a"},"id":113,"autostrada":"A04","progressiva_km":270.7,"nome":"Sommacampagna","codice":614}
+{"_id":{"$oid":"5e4d08b25b6665bf9191252b"},"id":114,"autostrada":"A04","progressiva_km":280.1,"nome":"Verona Sud","codice":613}
+{"_id":{"$oid":"5e4d08b25b6665bf9191252c"},"id":115,"autostrada":"A04","progressiva_km":290.0,"nome":"Verona Est","codice":612}
+{"_id":{"$oid":"5e4d08b25b6665bf9191252d"},"id":116,"autostrada":"A04","progressiva_km":302.7,"nome":"Soave","codice":611}
+{"_id":{"$oid":"5e4d08b25b6665bf9191252e"},"id":117,"autostrada":"A04","progressiva_km":311.7,"nome":"Montebello","codice":610}
+{"_id":{"$oid":"5e4d08b25b6665bf9191252f"},"id":118,"autostrada":"A04","progressiva_km":320.9,"nome":"Montecchio","codice":609}
+{"_id":{"$oid":"5e4d08b25b6665bf91912530"},"id":119,"autostrada":"A04","progressiva_km":326.9,"nome":"Vicenza Ovest","codice":608}
+{"_id":{"$oid":"5e4d08b25b6665bf91912531"},"id":120,"autostrada":"A04","progressiva_km":334.5,"nome":"Vicenza Est","codice":607}
+{"_id":{"$oid":"5e4d08b25b6665bf91912532"},"id":121,"autostrada":"A04","progressiva_km":343.6,"nome":"Grisignano","codice":606}
+{"_id":{"$oid":"5e4d08b25b6665bf91912533"},"id":122,"autostrada":"A04","progressiva_km":356.6,"nome":"Padova Ovest","codice":605}
+{"_id":{"$oid":"5e4d08b25b6665bf91912534"},"id":100,"autostrada":"A04","progressiva_km":172.4,"nome":"Bergamo","codice":648}
+{"_id":{"$oid":"5e4d08b25b6665bf91912535"},"id":103,"autostrada":"A04","progressiva_km":190.9,"nome":"Ponte Oglio","codice":645}
+{"_id":{"$oid":"5e4d08b25b6665bf91912536"},"id":104,"autostrada":"A04","progressiva_km":193.1,"nome":"Palazzolo","codice":644}
+{"_id":{"$oid":"5e4d08b25b6665bf91912537"},"id":123,"autostrada":"A04","progressiva_km":363.6,"nome":"Padova Est","codice":604}
+{"_id":{"$oid":"5e4d08b25b6665bf91912538"},"id":124,"autostrada":"A04","progressiva_km":380.3,"nome":"Spinea","codice":598}
+{"_id":{"$oid":"5e4d08b25b6665bf91912539"},"id":125,"autostrada":"A04","progressiva_km":389.39,"nome":"Martellago-Scorze'","codice":597}
+{"_id":{"$oid":"5e4d08b25b6665bf9191253a"},"id":126,"autostrada":"A04","progressiva_km":400.1,"nome":"Preganziol","codice":596}
+{"_id":{"$oid":"5e4d08b25b6665bf9191253b"},"id":127,"autostrada":"A04","progressiva_km":416.09,"nome":"Meolo - Roncade","codice":513}
+{"_id":{"$oid":"5e4d08b25b6665bf9191253c"},"id":129,"autostrada":"A04","progressiva_km":432.2,"nome":"Cessalto","codice":510}
+{"_id":{"$oid":"5e4d08b25b6665bf9191253d"},"id":132,"autostrada":"A04","progressiva_km":482.7,"nome":"San Giorgio di Nogaro","codice":506}
+{"_id":{"$oid":"5e4d08b25b6665bf9191253e"},"id":133,"autostrada":"A04","progressiva_km":491.3,"nome":"Palmanova","codice":504}
+{"_id":{"$oid":"5e4d08b25b6665bf9191253f"},"id":134,"autostrada":"A04","progressiva_km":506.5,"nome":"Redipuglia","codice":502}
+{"_id":{"$oid":"5e4d08b25b6665bf91912540"},"id":135,"autostrada":"A04","progressiva_km":515.1,"nome":"Trieste Lisert","codice":501}
+{"_id":{"$oid":"5e4d08b25b6665bf91912541"},"id":136,"autostrada":"A04","progressiva_km":120.9,"nome":"Milano Tangenziale Nord Ovest","codice":444}
+{"_id":{"$oid":"5e4d08b25b6665bf91912542"},"id":137,"autostrada":"A05","progressiva_km":3.7,"nome":"Settimo Torinese","codice":419}
+{"_id":{"$oid":"5e4d08b25b6665bf91912543"},"id":138,"autostrada":"A05","progressiva_km":3.7,"nome":"Torino Nord","codice":401}
+{"_id":{"$oid":"5e4d08b25b6665bf91912544"},"id":139,"autostrada":"A05","progressiva_km":4.0,"nome":"Settimo Nord","codice":400}
+{"_id":{"$oid":"5e4d08b25b6665bf91912545"},"id":140,"autostrada":"A05","progressiva_km":10.8,"nome":"Volpiano","codice":402}
+{"_id":{"$oid":"5e4d08b25b6665bf91912546"},"id":141,"autostrada":"A05","progressiva_km":24.9,"nome":"San Giorgio","codice":403}
+{"_id":{"$oid":"5e4d08b25b6665bf91912547"},"id":142,"autostrada":"A05","progressiva_km":33.0,"nome":"Scarmagno","codice":404}
+{"_id":{"$oid":"5e4d08b25b6665bf91912548"},"id":143,"autostrada":"A05","progressiva_km":39.3,"nome":"Ivrea","codice":407}
+{"_id":{"$oid":"5e4d08b25b6665bf91912549"},"id":144,"autostrada":"A05","progressiva_km":53.4,"nome":"Quincinetto","codice":408}
+{"_id":{"$oid":"5e4d08b25b6665bf9191254a"},"id":145,"autostrada":"A05","progressiva_km":57.6,"nome":"Pont Saint Martin","codice":409}
+{"_id":{"$oid":"5e4d08b25b6665bf9191254b"},"id":146,"autostrada":"A05","progressiva_km":70.1,"nome":"Verres","codice":410}
+{"_id":{"$oid":"5e4d08b25b6665bf9191254c"},"id":147,"autostrada":"A05","progressiva_km":81.3,"nome":"Chatillon-Saint Vincent","codice":411}
+{"_id":{"$oid":"5e4d08b25b6665bf9191254d"},"id":148,"autostrada":"A05","progressiva_km":92.7,"nome":"Nus","codice":412}
+{"_id":{"$oid":"5e4d08b25b6665bf9191254e"},"id":131,"autostrada":"A04","progressiva_km":467.7,"nome":"Latisana","codice":507}
+{"_id":{"$oid":"5e4d08b25b6665bf9191254f"},"id":149,"autostrada":"A05","progressiva_km":100.2,"nome":"Aosta","codice":414}
+{"_id":{"$oid":"5e4d08b25b6665bf91912550"},"id":150,"autostrada":"A05","progressiva_km":101.1,"nome":"Aosta est","codice":469}
+{"_id":{"$oid":"5e4d08b25b6665bf91912551"},"id":151,"autostrada":"A05","progressiva_km":112.8,"nome":"Aosta Ovest","codice":415}
+{"_id":{"$oid":"5e4d08b25b6665bf91912552"},"id":152,"autostrada":"A05","progressiva_km":7.9,"nome":"Albiano","codice":405}
+{"_id":{"$oid":"5e4d08b25b6665bf91912553"},"id":153,"autostrada":"A05","progressiva_km":0.1,"nome":"Aosta-Gran San Bernardo","codice":413}
+{"_id":{"$oid":"5e4d08b25b6665bf91912554"},"id":154,"autostrada":"A06","progressiva_km":13.0,"nome":"Barriera di Torino","codice":351}
+{"_id":{"$oid":"5e4d08b25b6665bf91912555"},"id":156,"autostrada":"A06","progressiva_km":34.6,"nome":"Marene","codice":353}
+{"_id":{"$oid":"5e4d08b25b6665bf91912556"},"id":155,"autostrada":"A06","progressiva_km":13.1,"nome":"Carmagnola","codice":352}
+{"_id":{"$oid":"5e4d08b25b6665bf91912557"},"id":157,"autostrada":"A06","progressiva_km":49.3,"nome":"Fossano","codice":354}
+{"_id":{"$oid":"5e4d08b25b6665bf91912558"},"id":158,"autostrada":"A06","progressiva_km":57.8,"nome":"Carru`","codice":355}
+{"_id":{"$oid":"5e4d08b25b6665bf91912559"},"id":159,"autostrada":"A06","progressiva_km":62.7,"nome":"Mondovi`","codice":356}
+{"_id":{"$oid":"5e4d08b25b6665bf9191255a"},"id":130,"autostrada":"A04","progressiva_km":438.9,"nome":"San Stino di Livenza","codice":509}
+{"_id":{"$oid":"5e4d08b25b6665bf9191255b"},"id":162,"autostrada":"A06","progressiva_km":97.1,"nome":"Millesimo","codice":361}
+{"_id":{"$oid":"5e4d08b25b6665bf9191255c"},"id":163,"autostrada":"A06","progressiva_km":109.6,"nome":"Altare","codice":362}
+{"_id":{"$oid":"5e4d08b25b6665bf9191255d"},"id":164,"autostrada":"A07","progressiva_km":4.1,"nome":"Milano Ovest","codice":201}
+{"_id":{"$oid":"5e4d08b25b6665bf9191255e"},"id":165,"autostrada":"A07","progressiva_km":10.5,"nome":"Binasco","codice":202}
+{"_id":{"$oid":"5e4d08b25b6665bf9191255f"},"id":166,"autostrada":"A07","progressiva_km":21.5,"nome":"Bereguardo","codice":203}
+{"_id":{"$oid":"5e4d08b25b6665bf91912560"},"id":160,"autostrada":"A06","progressiva_km":70.6,"nome":"Niella Tanaro","codice":358}
+{"_id":{"$oid":"5e4d08b25b6665bf91912561"},"id":168,"autostrada":"A07","progressiva_km":50.0,"nome":"Casei Gerola","codice":205}
+{"_id":{"$oid":"5e4d08b25b6665bf91912562"},"id":169,"autostrada":"A07","progressiva_km":54.0,"nome":"Castelnuovo Scrivia","codice":206}
+{"_id":{"$oid":"5e4d08b25b6665bf91912563"},"id":170,"autostrada":"A07","progressiva_km":63.5,"nome":"Tortona","codice":207}
+{"_id":{"$oid":"5e4d08b25b6665bf91912564"},"id":167,"autostrada":"A07","progressiva_km":30.6,"nome":"Gropello Cairoli","codice":204}
+{"_id":{"$oid":"5e4d08b25b6665bf91912565"},"id":171,"autostrada":"A07","progressiva_km":84.5,"nome":"Serravalle Scrivia","codice":208}
+{"_id":{"$oid":"5e4d08b25b6665bf91912566"},"id":173,"autostrada":"A07","progressiva_km":100.7,"nome":"Isola del Cantone","codice":210}
+{"_id":{"$oid":"5e4d08b25b6665bf91912567"},"id":172,"autostrada":"A07","progressiva_km":88.6,"nome":"Vignole Borbera","codice":209}
+{"_id":{"$oid":"5e4d08b25b6665bf91912568"},"id":174,"autostrada":"A07","progressiva_km":106.5,"nome":"Ronco Scrivia","codice":211}
+{"_id":{"$oid":"5e4d08b25b6665bf91912569"},"id":175,"autostrada":"A07","progressiva_km":111.5,"nome":"Busalla","codice":212}
+{"_id":{"$oid":"5e4d08b25b6665bf9191256a"},"id":161,"autostrada":"A06","progressiva_km":81.0,"nome":"Ceva","codice":359}
+{"_id":{"$oid":"5e4d08b25b6665bf9191256b"},"id":128,"autostrada":"A04","progressiva_km":424.6,"nome":"San Dona' di Piave","codice":511}
+{"_id":{"$oid":"5e4d08b25b6665bf9191256c"},"id":177,"autostrada":"A07","progressiva_km":132.8,"nome":"Genova Ovest","codice":214}
+{"_id":{"$oid":"5e4d08b25b6665bf9191256d"},"id":180,"autostrada":"A08","progressiva_km":29.9,"nome":"Gallarate","codice":6}
+{"_id":{"$oid":"5e4d08b25b6665bf9191256e"},"id":181,"autostrada":"A08","progressiva_km":31.9,"nome":"Gallarate Nord","codice":10}
+{"_id":{"$oid":"5e4d08b25b6665bf9191256f"},"id":179,"autostrada":"A08","progressiva_km":8.1,"nome":"Lainate","codice":2}
+{"_id":{"$oid":"5e4d08b25b6665bf91912570"},"id":182,"autostrada":"A08","progressiva_km":2.5,"nome":"Gallarate Ovest","codice":246}
+{"_id":{"$oid":"5e4d08b25b6665bf91912571"},"id":183,"autostrada":"A08","progressiva_km":4.0,"nome":"Besnate","codice":245}
+{"_id":{"$oid":"5e4d08b25b6665bf91912572"},"id":178,"autostrada":"A08","progressiva_km":5.6,"nome":"MILANO NORD","codice":1}
+{"_id":{"$oid":"5e4d08b25b6665bf91912573"},"id":184,"autostrada":"A08","progressiva_km":11.9,"nome":"Sesto Calende-Vergiate","codice":244}
+{"_id":{"$oid":"5e4d08b25b6665bf91912574"},"id":176,"autostrada":"A07","progressiva_km":125.8,"nome":"Genova Bolzaneto","codice":213}
+{"_id":{"$oid":"5e4d08b25b6665bf91912575"},"id":186,"autostrada":"A09","progressiva_km":29.8,"nome":"Fino Mornasco","codice":4}
+{"_id":{"$oid":"5e4d08b25b6665bf91912576"},"id":189,"autostrada":"A10","progressiva_km":6.0,"nome":"Genova Pegli","codice":216}
+{"_id":{"$oid":"5e4d08b25b6665bf91912577"},"id":190,"autostrada":"A10","progressiva_km":10.7,"nome":"Genova Pra'","codice":217}
+{"_id":{"$oid":"5e4d08b25b6665bf91912578"},"id":191,"autostrada":"A10","progressiva_km":20.2,"nome":"Arenzano","codice":218}
+{"_id":{"$oid":"5e4d08b25b6665bf91912579"},"id":187,"autostrada":"A09","progressiva_km":33.0,"nome":"Como Grandate","codice":3}
+{"_id":{"$oid":"5e4d08b25b6665bf9191257a"},"id":192,"autostrada":"A10","progressiva_km":26.8,"nome":"Varazze","codice":219}
+{"_id":{"$oid":"5e4d08b25b6665bf9191257b"},"id":193,"autostrada":"A10","progressiva_km":32.35,"nome":"Celle Ligure","codice":220}
+{"_id":{"$oid":"5e4d08b25b6665bf9191257c"},"id":188,"autostrada":"A10","progressiva_km":2.3,"nome":"Genova Aeroporto","codice":215}
+{"_id":{"$oid":"5e4d08b25b6665bf9191257d"},"id":196,"autostrada":"A10","progressiva_km":59.4,"nome":"Orco Feglino","codice":483}
+{"_id":{"$oid":"5e4d08b25b6665bf9191257e"},"id":185,"autostrada":"A08","progressiva_km":17.9,"nome":"Castelletto Ticino","codice":243}
+{"_id":{"$oid":"5e4d08b25b6665bf9191257f"},"id":197,"autostrada":"A10","progressiva_km":63.0,"nome":"Finale Ligure","codice":484}
+{"_id":{"$oid":"5e4d08b25b6665bf91912580"},"id":194,"autostrada":"A10","progressiva_km":36.4,"nome":"Albisola","codice":221}
+{"_id":{"$oid":"5e4d08b25b6665bf91912581"},"id":195,"autostrada":"A10","progressiva_km":52.7,"nome":"Spotorno","codice":482}
+{"_id":{"$oid":"5e4d08b25b6665bf91912582"},"id":198,"autostrada":"A10","progressiva_km":67.7,"nome":"Pietra Ligure","codice":485}
+{"_id":{"$oid":"5e4d08b25b6665bf91912583"},"id":201,"autostrada":"A10","progressiva_km":93.2,"nome":"Andora","codice":487}
+{"_id":{"$oid":"5e4d08b25b6665bf91912584"},"id":199,"autostrada":"A10","progressiva_km":72.6,"nome":"Borghetto Santo Spirito","codice":497}
+{"_id":{"$oid":"5e4d08b25b6665bf91912585"},"id":200,"autostrada":"A10","progressiva_km":81.2,"nome":"Albenga","codice":486}
+{"_id":{"$oid":"5e4d08b25b6665bf91912586"},"id":202,"autostrada":"A10","progressiva_km":100.0,"nome":"San Bartolomeo","codice":488}
+{"_id":{"$oid":"5e4d08b25b6665bf91912587"},"id":203,"autostrada":"A10","progressiva_km":106.3,"nome":"Imperia Est","codice":489}
+{"_id":{"$oid":"5e4d08b25b6665bf91912588"},"id":207,"autostrada":"A10","progressiva_km":145.8,"nome":"Bordighera","codice":494}
+{"_id":{"$oid":"5e4d08b25b6665bf91912589"},"id":208,"autostrada":"A10","progressiva_km":151.8,"nome":"Ventimiglia","codice":495}
+{"_id":{"$oid":"5e4d08b25b6665bf9191258a"},"id":209,"autostrada":"A10","progressiva_km":151.8,"nome":"Ventimiglia","codice":496}
+{"_id":{"$oid":"5e4d08b25b6665bf9191258b"},"id":210,"autostrada":"A10","progressiva_km":44.8,"nome":"Savona-Vado","codice":222}
+{"_id":{"$oid":"5e4d08b25b6665bf9191258c"},"id":211,"autostrada":"A11","progressiva_km":4.2,"nome":"Firenze Ovest","codice":333}
+{"_id":{"$oid":"5e4d08b25b6665bf9191258d"},"id":212,"autostrada":"A11","progressiva_km":9.0,"nome":"Prato Est","codice":334}
+{"_id":{"$oid":"5e4d08b25b6665bf9191258e"},"id":213,"autostrada":"A11","progressiva_km":16.8,"nome":"Prato Ovest","codice":335}
+{"_id":{"$oid":"5e4d08b25b6665bf9191258f"},"id":214,"autostrada":"A11","progressiva_km":27.4,"nome":"Pistoia","codice":336}
+{"_id":{"$oid":"5e4d08b25b6665bf91912590"},"id":215,"autostrada":"A11","progressiva_km":39.0,"nome":"Montecatini Terme","codice":337}
+{"_id":{"$oid":"5e4d08b25b6665bf91912591"},"id":216,"autostrada":"A11","progressiva_km":46.4,"nome":"Chiesina Uzzanese","codice":338}
+{"_id":{"$oid":"5e4d08b25b6665bf91912592"},"id":217,"autostrada":"A11","progressiva_km":49.3,"nome":"Altopascio","codice":339}
+{"_id":{"$oid":"5e4d08b25b6665bf91912593"},"id":218,"autostrada":"A11","progressiva_km":57.2,"nome":"Capannori","codice":340}
+{"_id":{"$oid":"5e4d08b25b6665bf91912594"},"id":219,"autostrada":"A11","progressiva_km":66.0,"nome":"Lucca","codice":344}
+{"_id":{"$oid":"5e4d08b25b6665bf91912595"},"id":220,"autostrada":"A11","progressiva_km":81.0,"nome":"Pisa Nord","codice":345}
+{"_id":{"$oid":"5e4d08b25b6665bf91912596"},"id":221,"autostrada":"A11","progressiva_km":69.0,"nome":"Lucca ovest","codice":348}
+{"_id":{"$oid":"5e4d08b25b6665bf91912597"},"id":222,"autostrada":"A11","progressiva_km":81.7,"nome":"Massarosa","codice":290}
+{"_id":{"$oid":"5e4d08b25b6665bf91912598"},"id":223,"autostrada":"A11","progressiva_km":6.3,"nome":"Firenze Nord","codice":20}
+{"_id":{"$oid":"5e4d08b25b6665bf91912599"},"id":224,"autostrada":"A12","progressiva_km":4.2,"nome":"Genova Est","codice":260}
+{"_id":{"$oid":"5e4d08b25b6665bf9191259a"},"id":204,"autostrada":"A10","progressiva_km":112.2,"nome":"Imperia Ovest","codice":490}
+{"_id":{"$oid":"5e4d08b25b6665bf9191259b"},"id":205,"autostrada":"A10","progressiva_km":128.4,"nome":"Arma di Taggia","codice":491}
+{"_id":{"$oid":"5e4d08b25b6665bf9191259c"},"id":206,"autostrada":"A10","progressiva_km":139.4,"nome":"Sanremo Ovest","codice":493}
+{"_id":{"$oid":"5e4d08b25b6665bf9191259d"},"id":225,"autostrada":"A12","progressiva_km":11.5,"nome":"Genova Nervi","codice":261}
+{"_id":{"$oid":"5e4d08b25b6665bf9191259e"},"id":226,"autostrada":"A12","progressiva_km":22.8,"nome":"Recco","codice":262}
+{"_id":{"$oid":"5e4d08b25b6665bf9191259f"},"id":227,"autostrada":"A12","progressiva_km":28.4,"nome":"Rapallo","codice":263}
+{"_id":{"$oid":"5e4d08b25b6665bf919125a0"},"id":228,"autostrada":"A12","progressiva_km":38.3,"nome":"Chiavari","codice":264}
+{"_id":{"$oid":"5e4d08b25b6665bf919125a1"},"id":229,"autostrada":"A12","progressiva_km":41.1,"nome":"Lavagna","codice":265}
+{"_id":{"$oid":"5e4d08b25b6665bf919125a2"},"id":233,"autostrada":"A12","progressiva_km":75.8,"nome":"Brugnato","codice":275}
+{"_id":{"$oid":"5e4d08b25b6665bf919125a3"},"id":234,"autostrada":"A12","progressiva_km":101.6,"nome":"Sarzana","codice":279}
+{"_id":{"$oid":"5e4d08b25b6665bf919125a4"},"id":235,"autostrada":"A12","progressiva_km":110.0,"nome":"Carrara","codice":280}
+{"_id":{"$oid":"5e4d08b25b6665bf919125a5"},"id":236,"autostrada":"A12","progressiva_km":116.4,"nome":"Massa","codice":281}
+{"_id":{"$oid":"5e4d08b25b6665bf919125a6"},"id":237,"autostrada":"A12","progressiva_km":127.9,"nome":"Versilia","codice":282}
+{"_id":{"$oid":"5e4d08b25b6665bf919125a7"},"id":238,"autostrada":"A12","progressiva_km":161.6,"nome":"Pisa Centro","codice":287}
+{"_id":{"$oid":"5e4d08b25b6665bf919125a8"},"id":231,"autostrada":"A12","progressiva_km":60.5,"nome":"Deiva Marina","codice":273}
+{"_id":{"$oid":"5e4d08b25b6665bf919125a9"},"id":240,"autostrada":"A12","progressiva_km":205.9,"nome":"Rosignano Marittimo","codice":301}
+{"_id":{"$oid":"5e4d08b25b6665bf919125aa"},"id":241,"autostrada":"A12","progressiva_km":206.9,"nome":"Rosignano Barriera","codice":302}
+{"_id":{"$oid":"5e4d08b25b6665bf919125ab"},"id":242,"autostrada":"A12","progressiva_km":11.3,"nome":"Maccarese-Fregene","codice":2}
+{"_id":{"$oid":"5e4d08b25b6665bf919125ac"},"id":243,"autostrada":"A12","progressiva_km":11.6,"nome":"Roma Ovest","codice":1}
+{"_id":{"$oid":"5e4d08b25b6665bf919125ad"},"id":230,"autostrada":"A12","progressiva_km":48.7,"nome":"Sestri Levante","codice":266}
+{"_id":{"$oid":"5e4d08b25b6665bf919125ae"},"id":232,"autostrada":"A12","progressiva_km":70.1,"nome":"Carrodano","codice":274}
+{"_id":{"$oid":"5e4d08b25b6665bf919125af"},"id":245,"autostrada":"A12","progressiva_km":52.2,"nome":"Civitavecchia Sud","codice":4}
+{"_id":{"$oid":"5e4d08b25b6665bf919125b0"},"id":246,"autostrada":"A12","progressiva_km":52.3,"nome":"Aurelia","codice":3}
+{"_id":{"$oid":"5e4d08b25b6665bf919125b1"},"id":247,"autostrada":"A12","progressiva_km":77.8,"nome":"Tarquinia","codice":308}
+{"_id":{"$oid":"5e4d08b25b6665bf919125b2"},"id":248,"autostrada":"A12","progressiva_km":170.7,"nome":"barriera di Livorno","codice":286}
+{"_id":{"$oid":"5e4d08b25b6665bf919125b3"},"id":249,"autostrada":"A12","progressiva_km":78.9,"nome":"Pisa Centro","codice":287}
+{"_id":{"$oid":"5e4d08b25b6665bf919125b4"},"id":250,"autostrada":"A12","progressiva_km":0.6,"nome":"Viareggio","codice":283}
+{"_id":{"$oid":"5e4d08b25b6665bf919125b5"},"id":239,"autostrada":"A12","progressiva_km":177.8,"nome":"Collesalvetti","codice":300}
+{"_id":{"$oid":"5e4d08b25b6665bf919125b6"},"id":244,"autostrada":"A12","progressiva_km":14.9,"nome":"Torrimpietra","codice":6}
+{"_id":{"$oid":"5e4d08b25b6665bf919125b7"},"id":252,"autostrada":"A13","progressiva_km":0.6,"nome":"Bologna Arcoveggio","codice":101}
+{"_id":{"$oid":"5e4d08b25b6665bf919125b8"},"id":255,"autostrada":"A13","progressiva_km":33.7,"nome":"Ferrara Sud","codice":103}
+{"_id":{"$oid":"5e4d08b25b6665bf919125b9"},"id":256,"autostrada":"A13","progressiva_km":41.9,"nome":"Ferrara Nord","codice":104}
+{"_id":{"$oid":"5e4d08b25b6665bf919125ba"},"id":257,"autostrada":"A13","progressiva_km":49.1,"nome":"Occhiobello","codice":105}
+{"_id":{"$oid":"5e4d08b25b6665bf919125bb"},"id":258,"autostrada":"A13","progressiva_km":63.0,"nome":"Rovigo Sud - Villamarzana","codice":113}
+{"_id":{"$oid":"5e4d08b25b6665bf919125bc"},"id":253,"autostrada":"A13","progressiva_km":7.9,"nome":"Bologna Interporto","codice":100}
+{"_id":{"$oid":"5e4d08b25b6665bf919125bd"},"id":251,"autostrada":"A12","progressiva_km":2.5,"nome":"Rosignano","codice":303}
+{"_id":{"$oid":"5e4d08b25b6665bf919125be"},"id":261,"autostrada":"A13","progressiva_km":88.6,"nome":"Monselice","codice":108}
+{"_id":{"$oid":"5e4d08b25b6665bf919125bf"},"id":260,"autostrada":"A13","progressiva_km":74.8,"nome":"Boara","codice":107}
+{"_id":{"$oid":"5e4d08b25b6665bf919125c0"},"id":263,"autostrada":"A13","progressiva_km":112.4,"nome":"Padova industriale","codice":112}
+{"_id":{"$oid":"5e4d08b25b6665bf919125c1"},"id":264,"autostrada":"A13","progressiva_km":0.7,"nome":"Padova Sud","codice":110}
+{"_id":{"$oid":"5e4d08b25b6665bf919125c2"},"id":265,"autostrada":"A13","progressiva_km":0.6,"nome":"Bologna Arcoveggio","codice":101}
+{"_id":{"$oid":"5e4d08b25b6665bf919125c3"},"id":262,"autostrada":"A13","progressiva_km":95.0,"nome":"Terme Euganee","codice":109}
+{"_id":{"$oid":"5e4d08b25b6665bf919125c4"},"id":266,"autostrada":"A14","progressiva_km":4.8,"nome":"Bologna Borgo Panigale","codice":12}
+{"_id":{"$oid":"5e4d08b25b6665bf919125c5"},"id":267,"autostrada":"A14","progressiva_km":15.5,"nome":"Bologna Fiera","codice":40}
+{"_id":{"$oid":"5e4d08b25b6665bf919125c6"},"id":268,"autostrada":"A14","progressiva_km":22.2,"nome":"Bologna San Lazzaro","codice":41}
+{"_id":{"$oid":"5e4d08b25b6665bf919125c7"},"id":269,"autostrada":"A14","progressiva_km":38.2,"nome":"Castel San Pietro","codice":38}
+{"_id":{"$oid":"5e4d08b25b6665bf919125c8"},"id":254,"autostrada":"A13","progressiva_km":20.5,"nome":"Altedo","codice":102}
+{"_id":{"$oid":"5e4d08b25b6665bf919125c9"},"id":259,"autostrada":"A13","progressiva_km":70.4,"nome":"Rovigo","codice":106}
+{"_id":{"$oid":"5e4d08b25b6665bf919125ca"},"id":270,"autostrada":"A14","progressiva_km":50.1,"nome":"Imola","codice":42}
+{"_id":{"$oid":"5e4d08b25b6665bf919125cb"},"id":271,"autostrada":"A14","progressiva_km":64.5,"nome":"Faenza","codice":43}
+{"_id":{"$oid":"5e4d08b25b6665bf919125cc"},"id":272,"autostrada":"A14","progressiva_km":81.6,"nome":"Forli`","codice":44}
+{"_id":{"$oid":"5e4d08b25b6665bf919125cd"},"id":273,"autostrada":"A14","progressiva_km":93.6,"nome":"Cesena Nord","codice":39}
+{"_id":{"$oid":"5e4d08b25b6665bf919125ce"},"id":274,"autostrada":"A14","progressiva_km":99.7,"nome":"Cesena","codice":45}
+{"_id":{"$oid":"5e4d08b25b6665bf919125cf"},"id":275,"autostrada":"A14","progressiva_km":110.07,"nome":"Valle Rubicone","codice":69}
+{"_id":{"$oid":"5e4d08b25b6665bf919125d0"},"id":279,"autostrada":"A14","progressiva_km":143.9,"nome":"Cattolica","codice":49}
+{"_id":{"$oid":"5e4d08b25b6665bf919125d1"},"id":278,"autostrada":"A14","progressiva_km":135.4,"nome":"Riccione","codice":48}
+{"_id":{"$oid":"5e4d08b25b6665bf919125d2"},"id":281,"autostrada":"A14","progressiva_km":173.3,"nome":"Fano","codice":51}
+{"_id":{"$oid":"5e4d08b25b6665bf919125d3"},"id":282,"autostrada":"A14","progressiva_km":185.3,"nome":"Marotta-Mondolfo","codice":64}
+{"_id":{"$oid":"5e4d08b25b6665bf919125d4"},"id":280,"autostrada":"A14","progressiva_km":155.9,"nome":"Pesaro-Urbino","codice":50}
+{"_id":{"$oid":"5e4d08b25b6665bf919125d5"},"id":283,"autostrada":"A14","progressiva_km":194.5,"nome":"Senigallia","codice":52}
+{"_id":{"$oid":"5e4d08b25b6665bf919125d6"},"id":276,"autostrada":"A14","progressiva_km":117.3,"nome":"Rimini Nord","codice":46}
+{"_id":{"$oid":"5e4d08b25b6665bf919125d7"},"id":284,"autostrada":"A14","progressiva_km":207.9,"nome":"Montemarciano","codice":68}
+{"_id":{"$oid":"5e4d08b25b6665bf919125d8"},"id":277,"autostrada":"A14","progressiva_km":127.4,"nome":"Rimini Sud","codice":47}
+{"_id":{"$oid":"5e4d08b25b6665bf919125d9"},"id":288,"autostrada":"A14","progressiva_km":262.6,"nome":"Civitanova Marche Macerata","codice":56}
+{"_id":{"$oid":"5e4d08b25b6665bf919125da"},"id":289,"autostrada":"A14","progressiva_km":270.82,"nome":"Porto S. Elpidio","codice":67}
+{"_id":{"$oid":"5e4d08b25b6665bf919125db"},"id":290,"autostrada":"A14","progressiva_km":279.5,"nome":"Fermo","codice":57}
+{"_id":{"$oid":"5e4d08b25b6665bf919125dc"},"id":291,"autostrada":"A14","progressiva_km":287.9,"nome":"Pedaso","codice":58}
+{"_id":{"$oid":"5e4d08b25b6665bf919125dd"},"id":292,"autostrada":"A14","progressiva_km":301.8,"nome":"Grottammare","codice":66}
+{"_id":{"$oid":"5e4d08b25b6665bf919125de"},"id":293,"autostrada":"A14","progressiva_km":311.7,"nome":"San Benedetto del Tronto","codice":59}
+{"_id":{"$oid":"5e4d08b25b6665bf919125df"},"id":294,"autostrada":"A14","progressiva_km":319.5,"nome":"Val Vibrata","codice":65}
+{"_id":{"$oid":"5e4d08b25b6665bf919125e0"},"id":295,"autostrada":"A14","progressiva_km":334.4,"nome":"Teramo - Giulianova Mosciano S.Angelo","codice":60}
+{"_id":{"$oid":"5e4d08b25b6665bf919125e1"},"id":296,"autostrada":"A14","progressiva_km":344.0,"nome":"Roseto degli Abruzzi","codice":61}
+{"_id":{"$oid":"5e4d08b25b6665bf919125e2"},"id":297,"autostrada":"A14","progressiva_km":351.8,"nome":"Atri Pineto","codice":62}
+{"_id":{"$oid":"5e4d08b25b6665bf919125e3"},"id":298,"autostrada":"A14","progressiva_km":364.2,"nome":"Pescara Nord-Citta` Sant'Angelo","codice":63}
+{"_id":{"$oid":"5e4d08b25b6665bf919125e4"},"id":299,"autostrada":"A14","progressiva_km":380.8,"nome":"Pescara Ovest-Chieti","codice":772}
+{"_id":{"$oid":"5e4d08b25b6665bf919125e5"},"id":300,"autostrada":"A14","progressiva_km":392.6,"nome":"Pescara Sud-Francavilla","codice":771}
+{"_id":{"$oid":"5e4d08b25b6665bf919125e6"},"id":301,"autostrada":"A14","progressiva_km":403.8,"nome":"Ortona","codice":770}
+{"_id":{"$oid":"5e4d08b25b6665bf919125e7"},"id":302,"autostrada":"A14","progressiva_km":413.0,"nome":"Lanciano","codice":769}
+{"_id":{"$oid":"5e4d08b25b6665bf919125e8"},"id":303,"autostrada":"A14","progressiva_km":421.1,"nome":"Val di Sangro","codice":768}
+{"_id":{"$oid":"5e4d08b25b6665bf919125e9"},"id":304,"autostrada":"A14","progressiva_km":437.3,"nome":"Vasto Nord","codice":767}
+{"_id":{"$oid":"5e4d08b25b6665bf919125ea"},"id":305,"autostrada":"A14","progressiva_km":453.8,"nome":"Vasto Sud","codice":766}
+{"_id":{"$oid":"5e4d08b25b6665bf919125eb"},"id":285,"autostrada":"A14","progressiva_km":213.5,"nome":"Ancona Nord","codice":53}
+{"_id":{"$oid":"5e4d08b25b6665bf919125ec"},"id":286,"autostrada":"A14","progressiva_km":230.4,"nome":"Ancona Sud","codice":54}
+{"_id":{"$oid":"5e4d08b25b6665bf919125ed"},"id":287,"autostrada":"A14","progressiva_km":245.5,"nome":"Loreto-Porto Recanati","codice":55}
+{"_id":{"$oid":"5e4d08b25b6665bf919125ee"},"id":306,"autostrada":"A14","progressiva_km":476.1,"nome":"Termoli Molise","codice":765}
+{"_id":{"$oid":"5e4d08b25b6665bf919125ef"},"id":307,"autostrada":"A14","progressiva_km":507.0,"nome":"Poggio Imperiale","codice":764}
+{"_id":{"$oid":"5e4d08b25b6665bf919125f0"},"id":308,"autostrada":"A14","progressiva_km":528.6,"nome":"San Severo","codice":763}
+{"_id":{"$oid":"5e4d08b25b6665bf919125f1"},"id":309,"autostrada":"A14","progressiva_km":554.1,"nome":"Foggia","codice":762}
+{"_id":{"$oid":"5e4d08b25b6665bf919125f2"},"id":310,"autostrada":"A14","progressiva_km":564.96,"nome":"Foggia Zona Industriale","codice":760}
+{"_id":{"$oid":"5e4d08b25b6665bf919125f3"},"id":311,"autostrada":"A14","progressiva_km":589.2,"nome":"Cerignola Est","codice":761}
+{"_id":{"$oid":"5e4d08b25b6665bf919125f4"},"id":312,"autostrada":"A14","progressiva_km":610.5,"nome":"Canosa","codice":732}
+{"_id":{"$oid":"5e4d08b25b6665bf919125f5"},"id":314,"autostrada":"A14","progressiva_km":638.1,"nome":"Trani","codice":734}
+{"_id":{"$oid":"5e4d08b25b6665bf919125f6"},"id":315,"autostrada":"A14","progressiva_km":652.4,"nome":"Molfetta","codice":735}
+{"_id":{"$oid":"5e4d08b25b6665bf919125f7"},"id":317,"autostrada":"A14","progressiva_km":672.2,"nome":"Bari Nord","codice":737}
+{"_id":{"$oid":"5e4d08b25b6665bf919125f8"},"id":318,"autostrada":"A14","progressiva_km":677.8,"nome":"Bari Sud","codice":738}
+{"_id":{"$oid":"5e4d08b25b6665bf919125f9"},"id":320,"autostrada":"A14","progressiva_km":709.6,"nome":"Gioia del Colle","codice":740}
+{"_id":{"$oid":"5e4d08b25b6665bf919125fa"},"id":321,"autostrada":"A14","progressiva_km":723.9,"nome":"Mottola-Castellaneta","codice":741}
+{"_id":{"$oid":"5e4d08b25b6665bf919125fb"},"id":322,"autostrada":"A14","progressiva_km":735.2,"nome":"Taranto Nord","codice":742}
+{"_id":{"$oid":"5e4d08b25b6665bf919125fc"},"id":323,"autostrada":"A14","progressiva_km":8.5,"nome":"Ravenna","codice":82}
+{"_id":{"$oid":"5e4d08b25b6665bf919125fd"},"id":324,"autostrada":"A14","progressiva_km":0.8,"nome":"Bologna Casalecchio","codice":13}
+{"_id":{"$oid":"5e4d08b25b6665bf919125fe"},"id":325,"autostrada":"A15","progressiva_km":5.2,"nome":"Parma Ovest","codice":151}
+{"_id":{"$oid":"5e4d08b25b6665bf919125ff"},"id":326,"autostrada":"A15","progressiva_km":22.7,"nome":"Fornovo","codice":152}
+{"_id":{"$oid":"5e4d08b25b6665bf91912600"},"id":327,"autostrada":"A15","progressiva_km":42.1,"nome":"Borgotaro","codice":153}
+{"_id":{"$oid":"5e4d08b25b6665bf91912601"},"id":328,"autostrada":"A15","progressiva_km":51.0,"nome":"Berceto","codice":154}
+{"_id":{"$oid":"5e4d08b25b6665bf91912602"},"id":329,"autostrada":"A15","progressiva_km":74.6,"nome":"Pontremoli","codice":155}
+{"_id":{"$oid":"5e4d08b25b6665bf91912603"},"id":330,"autostrada":"A15","progressiva_km":91.4,"nome":"Aulla","codice":156}
+{"_id":{"$oid":"5e4d08b25b6665bf91912604"},"id":331,"autostrada":"A15","progressiva_km":101.7,"nome":"La Spezia","codice":278}
+{"_id":{"$oid":"5e4d08b25b6665bf91912605"},"id":332,"autostrada":"A16","progressiva_km":7.3,"nome":"Pomigliano d'Arco","codice":718}
+{"_id":{"$oid":"5e4d08b25b6665bf91912606"},"id":333,"autostrada":"A16","progressiva_km":13.2,"nome":"Napoli Est","codice":780}
+{"_id":{"$oid":"5e4d08b25b6665bf91912607"},"id":334,"autostrada":"A16","progressiva_km":23.53,"nome":"Tufino","codice":729}
+{"_id":{"$oid":"5e4d08b25b6665bf91912608"},"id":335,"autostrada":"A16","progressiva_km":26.6,"nome":"Baiano","codice":720}
+{"_id":{"$oid":"5e4d08b25b6665bf91912609"},"id":336,"autostrada":"A16","progressiva_km":41.1,"nome":"Avellino Ovest","codice":721}
+{"_id":{"$oid":"5e4d08b25b6665bf9191260a"},"id":337,"autostrada":"A16","progressiva_km":49.7,"nome":"Avellino Est","codice":722}
+{"_id":{"$oid":"5e4d08b25b6665bf9191260b"},"id":316,"autostrada":"A14","progressiva_km":663.0,"nome":"Bitonto","codice":736}
+{"_id":{"$oid":"5e4d08b25b6665bf9191260c"},"id":338,"autostrada":"A16","progressiva_km":68.7,"nome":"Benevento","codice":723}
+{"_id":{"$oid":"5e4d08b25b6665bf9191260d"},"id":339,"autostrada":"A16","progressiva_km":81.7,"nome":"Grottaminarda","codice":724}
+{"_id":{"$oid":"5e4d08b25b6665bf9191260e"},"id":340,"autostrada":"A16","progressiva_km":104.2,"nome":"Vallata","codice":725}
+{"_id":{"$oid":"5e4d08b25b6665bf9191260f"},"id":341,"autostrada":"A16","progressiva_km":111.0,"nome":"Lacedonia","codice":726}
+{"_id":{"$oid":"5e4d08b25b6665bf91912610"},"id":313,"autostrada":"A14","progressiva_km":626.9,"nome":"Andria-Barletta","codice":733}
+{"_id":{"$oid":"5e4d08b25b6665bf91912611"},"id":319,"autostrada":"A14","progressiva_km":697.6,"nome":"Acquaviva delle Fonti","codice":739}
+{"_id":{"$oid":"5e4d08b25b6665bf91912612"},"id":342,"autostrada":"A16","progressiva_km":127.9,"nome":"Candela","codice":727}
+{"_id":{"$oid":"5e4d08b25b6665bf91912613"},"id":344,"autostrada":"A18","progressiva_km":1.0,"nome":"Messina Sud","codice":1}
+{"_id":{"$oid":"5e4d08b25b6665bf91912614"},"id":347,"autostrada":"A18","progressiva_km":41.0,"nome":"Giardini Naxos","codice":5}
+{"_id":{"$oid":"5e4d08b25b6665bf91912615"},"id":348,"autostrada":"A18","progressiva_km":48.0,"nome":"Fiumefreddo","codice":6}
+{"_id":{"$oid":"5e4d08b25b6665bf91912616"},"id":349,"autostrada":"A18","progressiva_km":59.0,"nome":"Giarre","codice":7}
+{"_id":{"$oid":"5e4d08b25b6665bf91912617"},"id":350,"autostrada":"A18","progressiva_km":69.0,"nome":"Acireale","codice":8}
+{"_id":{"$oid":"5e4d08b25b6665bf91912618"},"id":351,"autostrada":"A18","progressiva_km":77.0,"nome":"Catania Nord","codice":9}
+{"_id":{"$oid":"5e4d08b25b6665bf91912619"},"id":343,"autostrada":"A16","progressiva_km":159.9,"nome":"Cerignola","codice":728}
+{"_id":{"$oid":"5e4d08b25b6665bf9191261a"},"id":353,"autostrada":"A20","progressiva_km":24.0,"nome":"Rometta","codice":2}
+{"_id":{"$oid":"5e4d08b25b6665bf9191261b"},"id":354,"autostrada":"A20","progressiva_km":38.0,"nome":"Milazzo-Isole Eolie","codice":3}
+{"_id":{"$oid":"5e4d08b25b6665bf9191261c"},"id":345,"autostrada":"A18","progressiva_km":22.0,"nome":"Roccalumera","codice":3}
+{"_id":{"$oid":"5e4d08b25b6665bf9191261d"},"id":346,"autostrada":"A18","progressiva_km":36.0,"nome":"Taormina","codice":4}
+{"_id":{"$oid":"5e4d08b25b6665bf9191261e"},"id":352,"autostrada":"A20","progressiva_km":21.0,"nome":"barriera di Messina Nord","codice":1}
+{"_id":{"$oid":"5e4d08b25b6665bf9191261f"},"id":358,"autostrada":"A20","progressiva_km":84.0,"nome":"Brolo","codice":7}
+{"_id":{"$oid":"5e4d08b25b6665bf91912620"},"id":359,"autostrada":"A20","progressiva_km":97.0,"nome":"Rocca di Capri Leone","codice":8}
+{"_id":{"$oid":"5e4d08b25b6665bf91912621"},"id":360,"autostrada":"A20","progressiva_km":107.0,"nome":"San Agata di Militello","codice":9}
+{"_id":{"$oid":"5e4d08b25b6665bf91912622"},"id":361,"autostrada":"A20","progressiva_km":135.0,"nome":"S.Stefano di Camastra","codice":12}
+{"_id":{"$oid":"5e4d08b25b6665bf91912623"},"id":362,"autostrada":"A20","progressiva_km":144.0,"nome":"Tusa","codice":13}
+{"_id":{"$oid":"5e4d08b25b6665bf91912624"},"id":363,"autostrada":"A20","progressiva_km":155.0,"nome":"Castelbuono","codice":14}
+{"_id":{"$oid":"5e4d08b25b6665bf91912625"},"id":364,"autostrada":"A20","progressiva_km":163.0,"nome":"Cefalu'","codice":15}
+{"_id":{"$oid":"5e4d08b25b6665bf91912626"},"id":357,"autostrada":"A20","progressiva_km":67.0,"nome":"Patti","codice":6}
+{"_id":{"$oid":"5e4d08b25b6665bf91912627"},"id":365,"autostrada":"A20","progressiva_km":181.0,"nome":"Buonfornello","codice":16}
+{"_id":{"$oid":"5e4d08b25b6665bf91912628"},"id":366,"autostrada":"A21","progressiva_km":10.7,"nome":"Villanova","codice":446}
+{"_id":{"$oid":"5e4d08b25b6665bf91912629"},"id":355,"autostrada":"A20","progressiva_km":47.0,"nome":"Barcellona","codice":4}
+{"_id":{"$oid":"5e4d08b25b6665bf9191262a"},"id":356,"autostrada":"A20","progressiva_km":58.0,"nome":"Falcone","codice":5}
+{"_id":{"$oid":"5e4d08b25b6665bf9191262b"},"id":370,"autostrada":"A21","progressiva_km":51.6,"nome":"Felizzano","codice":449}
+{"_id":{"$oid":"5e4d08b25b6665bf9191262c"},"id":368,"autostrada":"A21","progressiva_km":32.5,"nome":"Asti Ovest","codice":447}
+{"_id":{"$oid":"5e4d08b25b6665bf9191262d"},"id":371,"autostrada":"A21","progressiva_km":66.0,"nome":"Alessandria Ovest","codice":451}
+{"_id":{"$oid":"5e4d08b25b6665bf9191262e"},"id":372,"autostrada":"A21","progressiva_km":76.0,"nome":"Alessandria Est","codice":452}
+{"_id":{"$oid":"5e4d08b25b6665bf9191262f"},"id":373,"autostrada":"A21","progressiva_km":101.3,"nome":"Voghera","codice":455}
+{"_id":{"$oid":"5e4d08b25b6665bf91912630"},"id":374,"autostrada":"A21","progressiva_km":114.9,"nome":"Casteggio","codice":456}
+{"_id":{"$oid":"5e4d08b25b6665bf91912631"},"id":375,"autostrada":"A21","progressiva_km":126.9,"nome":"Broni Stradella","codice":457}
+{"_id":{"$oid":"5e4d08b25b6665bf91912632"},"id":367,"autostrada":"A21","progressiva_km":10.8,"nome":"Villanova","codice":445}
+{"_id":{"$oid":"5e4d08b25b6665bf91912633"},"id":378,"autostrada":"A21","progressiva_km":176.3,"nome":"Caorso","codice":637}
+{"_id":{"$oid":"5e4d08b25b6665bf91912634"},"id":379,"autostrada":"A21","progressiva_km":186.0,"nome":"Castelvetro","codice":635}
+{"_id":{"$oid":"5e4d08b25b6665bf91912635"},"id":380,"autostrada":"A21","progressiva_km":194.8,"nome":"Cremona","codice":634}
+{"_id":{"$oid":"5e4d08b25b6665bf91912636"},"id":381,"autostrada":"A21","progressiva_km":210.0,"nome":"Pontevico","codice":633}
+{"_id":{"$oid":"5e4d08b25b6665bf91912637"},"id":382,"autostrada":"A21","progressiva_km":220.3,"nome":"Manerbio","codice":632}
+{"_id":{"$oid":"5e4d08b25b6665bf91912638"},"id":383,"autostrada":"A21","progressiva_km":233.2,"nome":"Brescia Sud","codice":630}
+{"_id":{"$oid":"5e4d08b25b6665bf91912639"},"id":384,"autostrada":"A21","progressiva_km":238.2,"nome":"Brescia Centro","codice":631}
+{"_id":{"$oid":"5e4d08b25b6665bf9191263a"},"id":369,"autostrada":"A21","progressiva_km":38.7,"nome":"Asti Est","codice":448}
+{"_id":{"$oid":"5e4d08b25b6665bf9191263b"},"id":386,"autostrada":"A22","progressiva_km":15.8,"nome":"Vipiteno","codice":680}
+{"_id":{"$oid":"5e4d08b25b6665bf9191263c"},"id":387,"autostrada":"A22","progressiva_km":38.0,"nome":"Bressanone","codice":679}
+{"_id":{"$oid":"5e4d08b25b6665bf9191263d"},"id":385,"autostrada":"A22","progressiva_km":15.8,"nome":"Brennero","codice":681}
+{"_id":{"$oid":"5e4d08b25b6665bf9191263e"},"id":376,"autostrada":"A21","progressiva_km":140.9,"nome":"Castel San Giovanni","codice":458}
+{"_id":{"$oid":"5e4d08b25b6665bf9191263f"},"id":390,"autostrada":"A22","progressiva_km":77.4,"nome":"Bolzano Nord","codice":677}
+{"_id":{"$oid":"5e4d08b25b6665bf91912640"},"id":391,"autostrada":"A22","progressiva_km":85.3,"nome":"Bolzano Sud","codice":676}
+{"_id":{"$oid":"5e4d08b25b6665bf91912641"},"id":392,"autostrada":"A22","progressiva_km":102.0,"nome":"Egna Ora","codice":675}
+{"_id":{"$oid":"5e4d08b25b6665bf91912642"},"id":393,"autostrada":"A22","progressiva_km":121.5,"nome":"San Michele","codice":674}
+{"_id":{"$oid":"5e4d08b25b6665bf91912643"},"id":394,"autostrada":"A22","progressiva_km":131.7,"nome":"Trento Nord","codice":682}
+{"_id":{"$oid":"5e4d08b25b6665bf91912644"},"id":395,"autostrada":"A22","progressiva_km":136.5,"nome":"Trento Centro","codice":673}
+{"_id":{"$oid":"5e4d08b25b6665bf91912645"},"id":388,"autostrada":"A22","progressiva_km":47.7,"nome":"Bressanone Zona Industriale","codice":683}
+{"_id":{"$oid":"5e4d08b25b6665bf91912646"},"id":396,"autostrada":"A22","progressiva_km":142.0,"nome":"Trento Sud","codice":684}
+{"_id":{"$oid":"5e4d08b25b6665bf91912647"},"id":397,"autostrada":"A22","progressiva_km":158.4,"nome":"Rovereto Nord","codice":672}
+{"_id":{"$oid":"5e4d08b25b6665bf91912648"},"id":398,"autostrada":"A22","progressiva_km":167.0,"nome":"Rovereto Sud","codice":671}
+{"_id":{"$oid":"5e4d08b25b6665bf91912649"},"id":399,"autostrada":"A22","progressiva_km":179.4,"nome":"Ala Avio","codice":670}
+{"_id":{"$oid":"5e4d08b25b6665bf9191264a"},"id":401,"autostrada":"A22","progressiva_km":225.8,"nome":"Verona Nord","codice":668}
+{"_id":{"$oid":"5e4d08b25b6665bf9191264b"},"id":400,"autostrada":"A22","progressiva_km":207.0,"nome":"Affi","codice":669}
+{"_id":{"$oid":"5e4d08b25b6665bf9191264c"},"id":389,"autostrada":"A22","progressiva_km":53.0,"nome":"Chiusa","codice":678}
+{"_id":{"$oid":"5e4d08b25b6665bf9191264d"},"id":377,"autostrada":"A21","progressiva_km":157.4,"nome":"Piacenza Ovest","codice":459}
+{"_id":{"$oid":"5e4d08b25b6665bf9191264e"},"id":403,"autostrada":"A22","progressiva_km":256.7,"nome":"Mantova Nord","codice":666}
+{"_id":{"$oid":"5e4d08b25b6665bf9191264f"},"id":402,"autostrada":"A22","progressiva_km":243.0,"nome":"Nogarole Rocca","codice":667}
+{"_id":{"$oid":"5e4d08b25b6665bf91912650"},"id":407,"autostrada":"A22","progressiva_km":302.6,"nome":"Carpi","codice":662}
+{"_id":{"$oid":"5e4d08b25b6665bf91912651"},"id":408,"autostrada":"A22","progressiva_km":310.9,"nome":"Campogalliano","codice":661}
+{"_id":{"$oid":"5e4d08b25b6665bf91912652"},"id":409,"autostrada":"A23","progressiva_km":13.7,"nome":"Udine Sud","codice":505}
+{"_id":{"$oid":"5e4d08b25b6665bf91912653"},"id":410,"autostrada":"A23","progressiva_km":26.0,"nome":"Udine Nord","codice":541}
+{"_id":{"$oid":"5e4d08b25b6665bf91912654"},"id":411,"autostrada":"A23","progressiva_km":44.9,"nome":"Gemona-Osoppo","codice":542}
+{"_id":{"$oid":"5e4d08b25b6665bf91912655"},"id":412,"autostrada":"A23","progressiva_km":59.6,"nome":"Carnia","codice":543}
+{"_id":{"$oid":"5e4d08b25b6665bf91912656"},"id":405,"autostrada":"A22","progressiva_km":277.2,"nome":"Pegognaga","codice":664}
+{"_id":{"$oid":"5e4d08b25b6665bf91912657"},"id":413,"autostrada":"A23","progressiva_km":92.4,"nome":"Pontebba","codice":544}
+{"_id":{"$oid":"5e4d08b25b6665bf91912658"},"id":414,"autostrada":"A23","progressiva_km":105.2,"nome":"Ugovizza Tarvisio","codice":545}
+{"_id":{"$oid":"5e4d08b25b6665bf91912659"},"id":415,"autostrada":"A24","progressiva_km":8.0,"nome":"Lunghezza","codice":802}
+{"_id":{"$oid":"5e4d08b25b6665bf9191265a"},"id":416,"autostrada":"A24","progressiva_km":8.1,"nome":"Roma Est","codice":801}
+{"_id":{"$oid":"5e4d08b25b6665bf9191265b"},"id":417,"autostrada":"A24","progressiva_km":12.6,"nome":"Tivoli","codice":803}
+{"_id":{"$oid":"5e4d08b25b6665bf9191265c"},"id":404,"autostrada":"A22","progressiva_km":265.5,"nome":"Mantova Sud","codice":665}
+{"_id":{"$oid":"5e4d08b25b6665bf9191265d"},"id":406,"autostrada":"A22","progressiva_km":286.0,"nome":"Reggiolo Rolo","codice":663}
+{"_id":{"$oid":"5e4d08b25b6665bf9191265e"},"id":419,"autostrada":"A24","progressiva_km":33.2,"nome":"Vicovaro-Mandela","codice":805}
+{"_id":{"$oid":"5e4d08b25b6665bf9191265f"},"id":422,"autostrada":"A24","progressiva_km":75.1,"nome":"Valle del Salto","codice":808}
+{"_id":{"$oid":"5e4d08b25b6665bf91912660"},"id":423,"autostrada":"A24","progressiva_km":84.9,"nome":"Tornimparte","codice":809}
+{"_id":{"$oid":"5e4d08b25b6665bf91912661"},"id":421,"autostrada":"A24","progressiva_km":61.2,"nome":"Tagliacozzo","codice":807}
+{"_id":{"$oid":"5e4d08b25b6665bf91912662"},"id":424,"autostrada":"A24","progressiva_km":101.0,"nome":"L'Aquila Ovest","codice":810}
+{"_id":{"$oid":"5e4d08b25b6665bf91912663"},"id":426,"autostrada":"A24","progressiva_km":116.8,"nome":"Assergi","codice":812}
+{"_id":{"$oid":"5e4d08b25b6665bf91912664"},"id":427,"autostrada":"A24","progressiva_km":136.6,"nome":"San Gabriele Colledara","codice":813}
+{"_id":{"$oid":"5e4d08b25b6665bf91912665"},"id":425,"autostrada":"A24","progressiva_km":106.7,"nome":"L'Aquila Est","codice":811}
+{"_id":{"$oid":"5e4d08b25b6665bf91912666"},"id":428,"autostrada":"A24","progressiva_km":146.1,"nome":"Teramo","codice":814}
+{"_id":{"$oid":"5e4d08b25b6665bf91912667"},"id":420,"autostrada":"A24","progressiva_km":50.5,"nome":"Carsoli Oricola","codice":806}
+{"_id":{"$oid":"5e4d08b25b6665bf91912668"},"id":418,"autostrada":"A24","progressiva_km":24.0,"nome":"Castel Madama","codice":804}
+{"_id":{"$oid":"5e4d08b25b6665bf91912669"},"id":430,"autostrada":"A24","progressiva_km":4.5,"nome":"Ponte di Nona","codice":818}
+{"_id":{"$oid":"5e4d08b25b6665bf9191266a"},"id":432,"autostrada":"A24","progressiva_km":4.5,"nome":"Ponte di Nona","codice":818}
+{"_id":{"$oid":"5e4d08b25b6665bf9191266b"},"id":433,"autostrada":"A25","progressiva_km":83.1,"nome":"Magliano dei Marsi","codice":830}
+{"_id":{"$oid":"5e4d08b25b6665bf9191266c"},"id":434,"autostrada":"A25","progressiva_km":87.9,"nome":"Avezzano","codice":831}
+{"_id":{"$oid":"5e4d08b25b6665bf9191266d"},"id":435,"autostrada":"A25","progressiva_km":101.2,"nome":"Aielli Celano","codice":832}
+{"_id":{"$oid":"5e4d08b25b6665bf9191266e"},"id":436,"autostrada":"A25","progressiva_km":110.3,"nome":"Pescina","codice":833}
+{"_id":{"$oid":"5e4d08b25b6665bf9191266f"},"id":437,"autostrada":"A25","progressiva_km":121.6,"nome":"Cocullo","codice":834}
+{"_id":{"$oid":"5e4d08b25b6665bf91912670"},"id":431,"autostrada":"A24","progressiva_km":2.5,"nome":"Settecamini","codice":819}
+{"_id":{"$oid":"5e4d08b25b6665bf91912671"},"id":429,"autostrada":"A24","progressiva_km":2.5,"nome":"Settecamini","codice":819}
+{"_id":{"$oid":"5e4d08b25b6665bf91912672"},"id":439,"autostrada":"A25","progressiva_km":149.9,"nome":"Bussi Popoli","codice":836}
+{"_id":{"$oid":"5e4d08b25b6665bf91912673"},"id":442,"autostrada":"A25","progressiva_km":170.89,"nome":"Manoppello","codice":829}
+{"_id":{"$oid":"5e4d08b25b6665bf91912674"},"id":443,"autostrada":"A25","progressiva_km":177.5,"nome":"Chieti","codice":839}
+{"_id":{"$oid":"5e4d08b25b6665bf91912675"},"id":444,"autostrada":"A25","progressiva_km":185.4,"nome":"Pescara-Villanova","codice":840}
+{"_id":{"$oid":"5e4d08b25b6665bf91912676"},"id":445,"autostrada":"A25","progressiva_km":0.2,"nome":"Avezzano","codice":831}
+{"_id":{"$oid":"5e4d08b25b6665bf91912677"},"id":446,"autostrada":"A26","progressiva_km":14.0,"nome":"Masone","codice":230}
+{"_id":{"$oid":"5e4d08b25b6665bf91912678"},"id":447,"autostrada":"A26","progressiva_km":29.9,"nome":"Ovada","codice":231}
+{"_id":{"$oid":"5e4d08b25b6665bf91912679"},"id":448,"autostrada":"A26","progressiva_km":59.5,"nome":"Alessandria Sud","codice":233}
+{"_id":{"$oid":"5e4d08b25b6665bf9191267a"},"id":449,"autostrada":"A26","progressiva_km":89.6,"nome":"Casale Monferrato Sud","codice":234}
+{"_id":{"$oid":"5e4d08b25b6665bf9191267b"},"id":450,"autostrada":"A26","progressiva_km":94.1,"nome":"Casale Monferrato Nord","codice":235}
+{"_id":{"$oid":"5e4d08b25b6665bf9191267c"},"id":451,"autostrada":"A26","progressiva_km":116.8,"nome":"Vercelli Est","codice":239}
+{"_id":{"$oid":"5e4d08b25b6665bf9191267d"},"id":452,"autostrada":"A26","progressiva_km":145.1,"nome":"Romagnano Sesia - Ghemme","codice":240}
+{"_id":{"$oid":"5e4d08b25b6665bf9191267e"},"id":453,"autostrada":"A26","progressiva_km":153.4,"nome":"Borgomanero","codice":241}
+{"_id":{"$oid":"5e4d08b25b6665bf9191267f"},"id":454,"autostrada":"A26","progressiva_km":165.5,"nome":"Arona","codice":247}
+{"_id":{"$oid":"5e4d08b25b6665bf91912680"},"id":455,"autostrada":"A26","progressiva_km":166.6,"nome":"Lago Maggiore","codice":248}
+{"_id":{"$oid":"5e4d08b25b6665bf91912681"},"id":456,"autostrada":"A26","progressiva_km":7.9,"nome":"Novi Ligure","codice":232}
+{"_id":{"$oid":"5e4d08b25b6665bf91912682"},"id":457,"autostrada":"A26","progressiva_km":8.0,"nome":"Vercelli Ovest","codice":236}
+{"_id":{"$oid":"5e4d08b25b6665bf91912683"},"id":458,"autostrada":"A27","progressiva_km":5.0,"nome":"Venezia","codice":521}
+{"_id":{"$oid":"5e4d08b25b6665bf91912684"},"id":441,"autostrada":"A25","progressiva_km":166.4,"nome":"Scafa-Alanno","codice":838}
+{"_id":{"$oid":"5e4d08b25b6665bf91912685"},"id":459,"autostrada":"A27","progressiva_km":13.4,"nome":"Treviso Sud","codice":522}
+{"_id":{"$oid":"5e4d08b25b6665bf91912686"},"id":460,"autostrada":"A27","progressiva_km":22.6,"nome":"Treviso Nord","codice":523}
+{"_id":{"$oid":"5e4d08b25b6665bf91912687"},"id":461,"autostrada":"A27","progressiva_km":52.3,"nome":"Vittorio Veneto Sud","codice":525}
+{"_id":{"$oid":"5e4d08b25b6665bf91912688"},"id":462,"autostrada":"A27","progressiva_km":58.9,"nome":"Vittorio Veneto Nord","codice":526}
+{"_id":{"$oid":"5e4d08b25b6665bf91912689"},"id":463,"autostrada":"A27","progressiva_km":66.8,"nome":"Fadalto-Lago Santa Croce","codice":527}
+{"_id":{"$oid":"5e4d08b25b6665bf9191268a"},"id":464,"autostrada":"A27","progressiva_km":75.2,"nome":"Belluno","codice":528}
+{"_id":{"$oid":"5e4d08b25b6665bf9191268b"},"id":466,"autostrada":"A28","progressiva_km":0.8,"nome":"Portogruaro","codice":508}
+{"_id":{"$oid":"5e4d08b25b6665bf9191268c"},"id":467,"autostrada":"A28","progressiva_km":36.43,"nome":"Cordignano","codice":537}
+{"_id":{"$oid":"5e4d08b25b6665bf9191268d"},"id":465,"autostrada":"A27","progressiva_km":0.1,"nome":"Conegliano Veneto","codice":524}
+{"_id":{"$oid":"5e4d08b25b6665bf9191268e"},"id":469,"autostrada":"A30","progressiva_km":18.9,"nome":"Nola","codice":719}
+{"_id":{"$oid":"5e4d08b25b6665bf9191268f"},"id":468,"autostrada":"A28","progressiva_km":43.79,"nome":"Godega","codice":538}
+{"_id":{"$oid":"5e4d08b25b6665bf91912690"},"id":440,"autostrada":"A25","progressiva_km":157.2,"nome":"Casauria Torre De' Passeri","codice":837}
+{"_id":{"$oid":"5e4d08b25b6665bf91912691"},"id":472,"autostrada":"A30","progressiva_km":40.0,"nome":"Nocera Pagani","codice":784}
+{"_id":{"$oid":"5e4d08b25b6665bf91912692"},"id":473,"autostrada":"A30","progressiva_km":44.4,"nome":"Castel San Giorgio","codice":782}
+{"_id":{"$oid":"5e4d08b25b6665bf91912693"},"id":474,"autostrada":"A30","progressiva_km":49.7,"nome":"Salerno","codice":783}
+{"_id":{"$oid":"5e4d08b25b6665bf91912694"},"id":475,"autostrada":"A31","progressiva_km":0.0,"nome":"Badia Polesine","codice":626}
+{"_id":{"$oid":"5e4d08b25b6665bf91912695"},"id":476,"autostrada":"A31","progressiva_km":7.64,"nome":"Piacenza d'Adige","codice":625}
+{"_id":{"$oid":"5e4d08b25b6665bf91912696"},"id":471,"autostrada":"A30","progressiva_km":36.2,"nome":"Sarno","codice":781}
+{"_id":{"$oid":"5e4d08b25b6665bf91912697"},"id":478,"autostrada":"A31","progressiva_km":24.97,"nome":"Noventa Vicentina","codice":623}
+{"_id":{"$oid":"5e4d08b25b6665bf91912698"},"id":479,"autostrada":"A31","progressiva_km":32.1,"nome":"Agugliaro","codice":622}
+{"_id":{"$oid":"5e4d08b25b6665bf91912699"},"id":477,"autostrada":"A31","progressiva_km":18.05,"nome":"Santa Margherita d'Adige","codice":624}
+{"_id":{"$oid":"5e4d08b25b6665bf9191269a"},"id":480,"autostrada":"A31","progressiva_km":38.66,"nome":"Albettone-Barbarano","codice":621}
+{"_id":{"$oid":"5e4d08b25b6665bf9191269b"},"id":481,"autostrada":"A31","progressiva_km":46.6,"nome":"Montegaldella","codice":620}
+{"_id":{"$oid":"5e4d08b25b6665bf9191269c"},"id":438,"autostrada":"A25","progressiva_km":136.8,"nome":"Sulmona-Pratola Peligna","codice":835}
+{"_id":{"$oid":"5e4d08b25b6665bf9191269d"},"id":470,"autostrada":"A30","progressiva_km":30.4,"nome":"Palma Campania","codice":785}
+{"_id":{"$oid":"5e4d08b25b6665bf9191269e"},"id":483,"autostrada":"A31","progressiva_km":69.67,"nome":"Dueville","codice":691}
+{"_id":{"$oid":"5e4d08b25b6665bf9191269f"},"id":486,"autostrada":"A32","progressiva_km":9.0,"nome":"Avigliana","codice":191}
+{"_id":{"$oid":"5e4d08b25b6665bf919126a0"},"id":487,"autostrada":"A32","progressiva_km":57.6,"nome":"Salbertrand","codice":192}
+{"_id":{"$oid":"5e4d08b25b6665bf919126a1"},"id":488,"autostrada":"A33","progressiva_km":4.17,"nome":"Castelletto Stura","codice":181}
+{"_id":{"$oid":"5e4d08b25b6665bf919126a2"},"id":489,"autostrada":"A33","progressiva_km":12.6,"nome":"S. Albano","codice":180}
+{"_id":{"$oid":"5e4d08b25b6665bf919126a3"},"id":490,"autostrada":"A33","progressiva_km":0.0,"nome":"Marene","codice":353}
+{"_id":{"$oid":"5e4d08b25b6665bf919126a4"},"id":491,"autostrada":"A33","progressiva_km":7.5,"nome":"Cherasco","codice":189}
+{"_id":{"$oid":"5e4d08b25b6665bf919126a5"},"id":492,"autostrada":"A33","progressiva_km":30.9,"nome":"barriera govone","codice":188}
+{"_id":{"$oid":"5e4d08b25b6665bf919126a6"},"id":493,"autostrada":"A56","progressiva_km":5.4,"nome":"Astroni","codice":1}
+{"_id":{"$oid":"5e4d08b25b6665bf919126a7"},"id":494,"autostrada":"A56","progressiva_km":7.2,"nome":"Agnano","codice":2}
+{"_id":{"$oid":"5e4d08b25b6665bf919126a8"},"id":495,"autostrada":"A56","progressiva_km":10.1,"nome":"Fuorigrotta","codice":3}
+{"_id":{"$oid":"5e4d08b25b6665bf919126a9"},"id":496,"autostrada":"A56","progressiva_km":12.5,"nome":"Vomero","codice":4}
+{"_id":{"$oid":"5e4d08b25b6665bf919126aa"},"id":497,"autostrada":"A56","progressiva_km":13.8,"nome":"Camaldoli","codice":5}
+{"_id":{"$oid":"5e4d08b25b6665bf919126ab"},"id":498,"autostrada":"A56","progressiva_km":15.1,"nome":"zona Ospedaliera Cardarelli","codice":10}
+{"_id":{"$oid":"5e4d08b25b6665bf919126ac"},"id":499,"autostrada":"A56","progressiva_km":15.3,"nome":"Arenella","codice":6}
+{"_id":{"$oid":"5e4d08b25b6665bf919126ad"},"id":500,"autostrada":"A56","progressiva_km":16.1,"nome":"Capodimonte","codice":7}
+{"_id":{"$oid":"5e4d08b25b6665bf919126ae"},"id":501,"autostrada":"A56","progressiva_km":18.8,"nome":"Corso Malta","codice":8}
+{"_id":{"$oid":"5e4d08b25b6665bf919126af"},"id":502,"autostrada":"A56","progressiva_km":19.3,"nome":"Capodichino-Napoli Est","codice":9}
+{"_id":{"$oid":"5e4d08b25b6665bf919126b0"},"id":485,"autostrada":"A31","progressiva_km":88.67,"nome":"Piovene-Rocchette","codice":693}
+{"_id":{"$oid":"5e4d08b25b6665bf919126b1"},"id":503,"autostrada":"A57","progressiva_km":1.3,"nome":"Mirano Dolo","codice":602}
+{"_id":{"$oid":"5e4d08b25b6665bf919126b2"},"id":504,"autostrada":"A57","progressiva_km":7.2,"nome":"Mira-Oriago","codice":603}
+{"_id":{"$oid":"5e4d08b25b6665bf919126b3"},"id":505,"autostrada":"A57","progressiva_km":9.2,"nome":"Venezia Mestre","codice":601}
+{"_id":{"$oid":"5e4d08b25b6665bf919126b4"},"id":506,"autostrada":"A57","progressiva_km":25.5,"nome":"Venezia Est","codice":515}
+{"_id":{"$oid":"5e4d08b25b6665bf919126b5"},"id":507,"autostrada":"A58","progressiva_km":1.75,"nome":"Pessano con Bornago","codice":380}
+{"_id":{"$oid":"5e4d08b25b6665bf919126b6"},"id":509,"autostrada":"A58","progressiva_km":8.2,"nome":"Pozzuolo Martesana","codice":382}
+{"_id":{"$oid":"5e4d08b25b6665bf919126b7"},"id":484,"autostrada":"A31","progressiva_km":79.47,"nome":"Thiene","codice":692}
+{"_id":{"$oid":"5e4d08b25b6665bf919126b8"},"id":510,"autostrada":"A58","progressiva_km":18.56,"nome":"Paullo","codice":383}
+{"_id":{"$oid":"5e4d08b25b6665bf919126b9"},"id":514,"autostrada":"A03","progressiva_km":100.0,"nome":"test","codice":"abc"}
+{"_id":{"$oid":"5e4d08b25b6665bf919126ba"},"id":511,"autostrada":"A58","progressiva_km":29.4,"nome":"Vizzolo Predabissi","codice":384}
+{"_id":{"$oid":"5e4d08b25b6665bf919126bb"},"id":508,"autostrada":"A58","progressiva_km":4.14,"nome":"Gessate","codice":381}
+{"_id":{"$oid":"5e4d08b25b6665bf919126bc"},"id":482,"autostrada":"A31","progressiva_km":61.67,"nome":"Vicenza Nord","codice":690}

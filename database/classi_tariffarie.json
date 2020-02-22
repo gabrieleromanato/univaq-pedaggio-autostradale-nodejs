@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5e4d09085b6665bf91912737"},"id":2,"nome":"B","esempi":"Autobus, auto-caravan, autocarri"}
+{"_id":{"$oid":"5e4d09085b6665bf91912738"},"id":4,"nome":4,"esempi":"Autovetture con carrello o caravan a due assi\nAutocarri, autoarticolati, autotreni a 4 assi"}
+{"_id":{"$oid":"5e4d09085b6665bf91912739"},"id":5,"nome":5,"esempi":"Autoarticolati e autotreni a 5 o più assi"}
+{"_id":{"$oid":"5e4d09085b6665bf9191273a"},"id":3,"nome":3,"esempi":"Autovetture con carrello o caravan ad un asse\nAutobus, autocarri, autoarticolati a 3 assi"}
+{"_id":{"$oid":"5e4d09085b6665bf9191273b"},"id":1,"nome":"A","esempi":"Motocicli da 150 cc. ed oltre. Motocarrozzette da 250 cc. ed oltre.\nAutovetture\nMotocarri, Motofurgoni, Autofurgoni, Autocarri\n"}

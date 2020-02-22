@@ -1,0 +1,34 @@
+<%- include('header') -%>
+
+
+<section id="content" class="container">
+    <div class="jumbotron">
+        <h1 class="display-4">Autostrade</h1>
+    </div>
+    <%- include('menu') -%>
+
+    <% if(Array.isArray(records) && records.length > 0) { %>
+
+    <table class="table table-striped table-bordered">
+        <thead>
+            <tr>
+                <th scope="col">Nome</th>
+                <th scope="col">Codice</th>
+            </tr>
+        </thead>
+        <tbody>
+            <% records.forEach(record => { %>
+            <tr>
+                <td><%= record.nome %></td>
+                <td><%= record.codice %></td>
+            </tr>
+            <% }); %>
+        </tbody>
+    </table>
+
+
+    <% } %>
+</section>
+
+
+<%- include('footer') -%>

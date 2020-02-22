@@ -1,0 +1,26 @@
+@import url('https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css');
+
+#login-form {
+    max-width: 400px;
+    padding: 0 1em;
+    margin: 5em auto;
+}
+
+#login-form img {
+    display: block;
+}
+
+#content {
+    margin-top: 5em;
+    margin-bottom: 5em;
+}
+
+#menu {
+    margin: 2.3em 0;
+    padding: 0.5em 0;
+    border-bottom: 1px solid #ddd;
+}
+
+#menu .active {
+    font-weight: bold;
+}

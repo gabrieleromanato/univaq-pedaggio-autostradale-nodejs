@@ -1,0 +1,36 @@
+<%- include('header') -%>
+
+
+<section id="content" class="container">
+    <div class="jumbotron">
+        <h1 class="display-4">Pagamento</h1>
+        <p class="lead">L'importo da pagare è di Euro <%= total.toFixed(2) %>.</p>
+    </div>
+
+    <form action="<%= paypal.url %>" method="post" id="form-payment" novalidate>
+        <input name="cmd" value="_cart" type="hidden">
+        <input name="upload" value="1" type="hidden">
+        <input name="no_note" value="0" type="hidden">
+        <input name="bn" value="<%= paypal.formId %>" type="hidden">
+        <input name="tax_cart" value="0.00" type="hidden">
+        <input name="rm" value="2" type="hidden">
+        <input name="business" value="<%= paypal.email %>" type="hidden">
+        <input name="handling_cart" value="0" type="hidden">
+        <input name="currency_code" value="EUR" type="hidden">
+        <input name="lc" value="IT" type="hidden">
+        <input name="return" value="<%= paypal.return %>" type="hidden">
+        <input name="cbt" value="Ritorna al negozio" type="hidden">
+        <input name="cancel_return" value="<%= paypal.cancel %>" type="hidden">
+        <input name="item_name_1" value="Pedaggio Autostradale" type="hidden">
+        <input name="quantity_1" value="1" type="hidden">
+        <input name="amount_1" value="<%= total.toFixed(2) %>" type="hidden">
+        <input name="shippping_1" value="0.00" type="hidden">
+        <p class="mt-5">
+            <input type="submit" value="Paga con PayPal" class="btn btn-primary btn-lg">
+        </p>
+    </form>
+
+</section>    
+
+
+<%- include('footer') -%>

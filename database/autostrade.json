@@ -1,0 +1,34 @@
+{"_id":{"$oid":"5e4d08785b6665bf9191242e"},"id":1,"nome":"A1 Milano-Napoli","codice":"A01"}
+{"_id":{"$oid":"5e4d08785b6665bf9191242f"},"id":2,"nome":"A3 Napoli-Salerno","codice":"A03"}
+{"_id":{"$oid":"5e4d08785b6665bf91912430"},"id":3,"nome":"A4 Torino-Trieste","codice":"A04"}
+{"_id":{"$oid":"5e4d08785b6665bf91912431"},"id":4,"nome":"A5 Torino-Aosta-Monte Bianco","codice":"A05"}
+{"_id":{"$oid":"5e4d08785b6665bf91912432"},"id":5,"nome":"A6 Torino-Savona","codice":"A06"}
+{"_id":{"$oid":"5e4d08785b6665bf91912433"},"id":6,"nome":"A7 Milano-Serravalle-Genova","codice":"A07"}
+{"_id":{"$oid":"5e4d08785b6665bf91912434"},"id":7,"nome":"A8 Milano-Varese","codice":"A08"}
+{"_id":{"$oid":"5e4d08785b6665bf91912435"},"id":8,"nome":"A9 Lainate-Como-Chiasso","codice":"A09"}
+{"_id":{"$oid":"5e4d08785b6665bf91912436"},"id":9,"nome":"A10 Genova-Savona-Ventimiglia","codice":"A10"}
+{"_id":{"$oid":"5e4d08785b6665bf91912437"},"id":10,"nome":"A11 Firenze-Pisa nord","codice":"A11"}
+{"_id":{"$oid":"5e4d08785b6665bf91912438"},"id":11,"nome":"A12 Genova-Rosignano Marittimo","codice":"A12"}
+{"_id":{"$oid":"5e4d08785b6665bf91912439"},"id":12,"nome":"A12 Roma-Civitavecchia-Tarquinia","codice":"A12"}
+{"_id":{"$oid":"5e4d08785b6665bf9191243a"},"id":13,"nome":"A13 Bologna-Padova","codice":"A13"}
+{"_id":{"$oid":"5e4d08785b6665bf9191243b"},"id":14,"nome":"A14 Bologna-Taranto","codice":"A14"}
+{"_id":{"$oid":"5e4d08785b6665bf9191243c"},"id":15,"nome":"A15 Parma-La Spezia","codice":"A15"}
+{"_id":{"$oid":"5e4d08785b6665bf9191243d"},"id":16,"nome":"A16 Napoli-Canosa","codice":"A16"}
+{"_id":{"$oid":"5e4d08785b6665bf9191243e"},"id":17,"nome":"A18 Messina-Catania","codice":"A18"}
+{"_id":{"$oid":"5e4d08785b6665bf9191243f"},"id":18,"nome":"A20 Messina-Palermo","codice":"A20"}
+{"_id":{"$oid":"5e4d08785b6665bf91912440"},"id":20,"nome":"A22 Brennero-Modena","codice":"A22"}
+{"_id":{"$oid":"5e4d08785b6665bf91912441"},"id":19,"nome":"A21 Torino-Piacenza-Brescia","codice":"A21"}
+{"_id":{"$oid":"5e4d08785b6665bf91912442"},"id":21,"nome":"A23 Palmanova-Udine-Tarvisio","codice":"A23"}
+{"_id":{"$oid":"5e4d08785b6665bf91912443"},"id":23,"nome":"A25 Torano-Pescara","codice":"A25"}
+{"_id":{"$oid":"5e4d08785b6665bf91912444"},"id":24,"nome":"A26 Ge.Voltri-SS 33 Semp.-Gravell.Toce","codice":"A26"}
+{"_id":{"$oid":"5e4d08785b6665bf91912445"},"id":25,"nome":"A27 Venezia-Belluno","codice":"A27"}
+{"_id":{"$oid":"5e4d08785b6665bf91912446"},"id":26,"nome":"A28 Portogruaro-Pordenone-Conegliano","codice":"A28"}
+{"_id":{"$oid":"5e4d08785b6665bf91912447"},"id":22,"nome":"A24 Roma-L'Aquila-Teramo","codice":"A24"}
+{"_id":{"$oid":"5e4d08785b6665bf91912448"},"id":30,"nome":"A33 Asti-Cuneo","codice":"A33"}
+{"_id":{"$oid":"5e4d08785b6665bf91912449"},"id":31,"nome":"A33 Asti - A6","codice":"A33"}
+{"_id":{"$oid":"5e4d08785b6665bf9191244a"},"id":32,"nome":"Tangenziale Napoli","codice":"A56"}
+{"_id":{"$oid":"5e4d08785b6665bf9191244b"},"id":33,"nome":"A57 Tangenziale di Mestre","codice":"A57"}
+{"_id":{"$oid":"5e4d08785b6665bf9191244c"},"id":34,"nome":"TANG EST ESTERNA MILANO","codice":"A58"}
+{"_id":{"$oid":"5e4d08785b6665bf9191244e"},"id":28,"nome":"A31 Vicenza-Valdastico","codice":"A31"}
+{"_id":{"$oid":"5e4d08785b6665bf9191244f"},"id":27,"nome":"A30 Caserta-Salerno","codice":"A30"}
+{"_id":{"$oid":"5e4d08785b6665bf91912450"},"id":29,"nome":"A32 Torino-Bardonecchia","codice":"A32"}
